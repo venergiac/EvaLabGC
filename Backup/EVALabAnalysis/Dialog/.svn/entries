@@ -1,0 +1,91 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup/EVALabAnalysis/Dialog
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+PropertyDlg.cs
+file
+
+
+
+add
+
+AboutBox.resx
+file
+
+
+
+add
+
+AboutBox.Designer.cs
+file
+
+
+
+add
+
+AboutBox.cs
+file
+
+
+
+add
+
+ROIDialog.resx
+file
+
+
+
+add
+
+PropertyDlg.resx
+file
+
+
+
+add
+
+ROIDialog.Designer.cs
+file
+
+
+
+add
+
+ROIDialog.cs
+file
+
+
+
+add
+
+PropertyDlg.Designer.cs
+file
+
+
+
+add
+

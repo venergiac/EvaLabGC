@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nuclex.Windows.Forms.Demo</name>
+    </assembly>
+    <members>
+        <member name="T:Nuclex.Windows.Forms.Demo.DemoSelectorForm">
+            <summary>Dialog allowing the user to select the demonstration to run</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.DemoSelectorForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DemoSelectorForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DemoSelectorForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DemoSelectorForm.#ctor">
+            <summary>Initializes a new demo selection form</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DemoSelectorForm.asyncProgressBarDemoClicked(System.Object,System.EventArgs)">
+            <summary>Runs the asynchronous progress bar demonstration</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DemoSelectorForm.trackingBarDemoClicked(System.Object,System.EventArgs)">
+            <summary>Runs the tracking bar demonstration</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DemoSelectorForm.progressReporterDemoClicked(System.Object,System.EventArgs)">
+            <summary>Runs the progress reporter demonstration</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DemoSelectorForm.containerListViewDemoClicked(System.Object,System.EventArgs)">
+            <summary>Runs the container list view demonstration</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="T:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm">
+            <summary>Demonstration form for the background task tracking bar</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.#ctor">
+            <summary>Initializes a new tracking bar demonstration form</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.add1SecondTaskClicked(System.Object,System.EventArgs)">
+            <summary>Adds a 1 second task for the tracking bar</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="e">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.add2SecondTaskClicked(System.Object,System.EventArgs)">
+            <summary>Adds a 2 second task for the tracking bar</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="e">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.add4SecondTaskClicked(System.Object,System.EventArgs)">
+            <summary>Adds a 4 second task for the tracking bar</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="e">Not used</param>
+        </member>
+        <member name="T:Nuclex.Windows.Forms.Demo.DelayTransaction">
+            <summary>A transaction that spends some time in the background thread</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DelayTransaction.#ctor(System.Single)">
+            <summary>Initializes a new delay transaction</summary>
+            <param name="seconds">Number of seconds to spend in the background task</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DelayTransaction.AsyncAbort">
+            <summary>Aborts the transaction</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DelayTransaction.OnAsyncProgressChanged(System.Single)">
+            <summary>Fires the progress update event</summary>
+            <param name="progress">Progress to report (ranging from 0.0 to 1.0)</param>
+            <remarks>
+              Informs the observers of this transaction about the achieved progress.
+            </remarks>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DelayTransaction.OnAsyncProgressChanged(Nuclex.Support.Tracking.ProgressReportEventArgs)">
+            <summary>Fires the progress update event</summary>
+            <param name="eventArguments">Progress to report (ranging from 0.0 to 1.0)</param>
+            <remarks>
+              Informs the observers of this transaction about the achieved progress.
+              Allows for classes derived from the Transaction class to easily provide
+              a custom event arguments class that has been derived from the
+              Transaction's ProgressUpdateEventArgs class.
+            </remarks>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.DelayTransaction.asyncExecute">
+            <summary>Executes in a background thread to provide the delay</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.DelayTransaction.delayThread">
+            <summary>Thread that is delaying the completion of the transaction</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.DelayTransaction.seconds">
+            <summary>Number of seconds the completion will be delayed</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.DelayTransaction.aborted">
+            <summary>True if the delay transaction has been aborted</summary>
+        </member>
+        <member name="E:Nuclex.Windows.Forms.Demo.DelayTransaction.AsyncProgressChanged">
+            <summary>will be triggered to report when progress has been achieved</summary>
+        </member>
+        <member name="T:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm">
+            <summary>Demonstration dialog for the container list view</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.#ctor">
+            <summary>Initializes a new container list view demonstration dialog</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.onDisposed(System.Object,System.EventArgs)">
+            <summary>Called when the demonstration dialog is being disposed</summary>
+            <param name="sender">Demonstration dialog that is being disposed</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.resolutionsCombo">
+            <summary>Combo box with the screen resolutions the user can select from</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.antialiasingCombo">
+            <summary>Combo box with the antialiasing modes the user can select from</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.verticalRetraceCheck">
+            <summary>Check box allowing the vertical retrace wait to be enabled</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.components">
+            <summary>Required designer variable.</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.Dispose(System.Boolean)">
+            <summary>Cleans up any resources being used.</summary>
+            <param name="disposing">
+              True if managed resources should be disposed; otherwise, false.
+            </param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm">
+            <summary>Demonstration showing off the asynchronous progress bar</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.#ctor">
+            <summary>Initializes a new progress bar demo dialog</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.formDisposed(System.Object,System.EventArgs)">
+            <summary>Called when the form is being manually disposed (not by the GC)</summary>
+            <param name="sender">Form that is being disposed</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.runNormalDemoClicked(System.Object,System.EventArgs)">
+            <summary>Runs the demo of the normal progress bar</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.runAsyncDemoClicked(System.Object,System.EventArgs)">
+            <summary>Runs the demo of the asynchronous progress bar</summary>
+            <param name="sender">Button that has been clicked</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.asyncProgressBarWorker">
+            <summary>Worker thread that updates the asynchronous progress bar</summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.normalProgressBarWorker">
+            <summary>Worker thread that updates the normal progress bar</summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.asyncProgressUpdateThread">
+            <summary>
+              Thread performing the progress updates for the asynchronous progress bar
+            </summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.normalProgressUpdateThread">
+            <summary>
+              Thread performing the progress updates for the normal progress bar
+            </summary>
+        </member>
+        <member name="F:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Windows.Forms.Demo.Program.Main">
+            <summary>The main entry point for the application.</summary>
+        </member>
+        <member name="T:Nuclex.Windows.Forms.Demo.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Nuclex.Windows.Forms.Demo.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Nuclex.Windows.Forms.Demo.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

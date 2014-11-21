@@ -1,0 +1,8 @@
+<task id="GC" version="1.0">
+	<name>GazeContingent TMT direction guided</name>
+	<description>GazeContingent TMT</description>
+	<settings>
+		<param name="foreground">tmt-gray-direction.bmp</param>
+		<param name="background">tmt-gray-no-direction.bmp</param>
+	</settings>
+</task>

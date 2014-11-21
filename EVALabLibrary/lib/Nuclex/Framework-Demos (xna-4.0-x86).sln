@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Audio.Demo (net-4.0)", "Nuclex.Audio.Demo\Nuclex.Audio.Demo (net-4.0).csproj", "{AABF37D0-7A85-42D9-9D33-88BD853FB324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Game.Demo (xna-4.0-x86)", "Nuclex.Game.Demo\Nuclex.Game.Demo (xna-4.0-x86).csproj", "{776DCC64-37BB-40FD-B682-FA0FB5F9C766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Graphics.Demo (xna-4.0-x86)", "Nuclex.Graphics.Demo\Nuclex.Graphics.Demo (xna-4.0-x86).csproj", "{AB1D61A2-3181-44FA-80BA-B3AB8AAEE887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Networking.Demo (net-4.0)", "Nuclex.Networking.Demo\Nuclex.Networking.Demo (net-4.0).csproj", "{86624FF2-BAAF-4052-B30A-4B56563D96EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.UserInterface.Demo (xna-4.0-x86)", "Nuclex.UserInterface.Demo\Nuclex.UserInterface.Demo (xna-4.0-x86).csproj", "{D7E6B623-4535-4155-AE36-C0FC3CDFF9AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Windows.Forms.Demo (net-4.0)", "Nuclex.Windows.Forms.Demo\Nuclex.Windows.Forms.Demo (net-4.0).csproj", "{D200686C-9681-4F69-9638-E5346DDDA48F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Graphics.Demo.Content", "Nuclex.Graphics.Demo\Content\Nuclex.Graphics.Demo.Content.contentproj", "{1D290B4A-A7FF-46A3-B166-17758B95EA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Input.Demo (xna-4.0-x86)", "Nuclex.Input.Demo\Nuclex.Input.Demo (xna-4.0-x86).csproj", "{37311637-14C1-4D00-9AE1-A68379C2F495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Input.Demo.Content", "Nuclex.Input.Demo\Content\Nuclex.Input.Demo.Content.contentproj", "{9F37B100-7009-4E3E-B45D-EB015510F7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Fonts.Demo.Content", "Nuclex.Fonts.Demo\Content\Nuclex.Fonts.Demo.Content.contentproj", "{BA953898-B551-4937-9940-7B6565137E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Fonts.Demo (xna-4.0-x86)", "Nuclex.Fonts.Demo\Nuclex.Fonts.Demo (xna-4.0-x86).csproj", "{D872FAE2-D79D-49FA-9FE7-D5FD6961B896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|xna-4.0-x86 = Debug|xna-4.0-x86
+		Release|xna-4.0-x86 = Release|xna-4.0-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABF37D0-7A85-42D9-9D33-88BD853FB324}.Debug|xna-4.0-x86.ActiveCfg = Debug|Any CPU
+		{AABF37D0-7A85-42D9-9D33-88BD853FB324}.Debug|xna-4.0-x86.Build.0 = Debug|Any CPU
+		{AABF37D0-7A85-42D9-9D33-88BD853FB324}.Release|xna-4.0-x86.ActiveCfg = Release|Any CPU
+		{AABF37D0-7A85-42D9-9D33-88BD853FB324}.Release|xna-4.0-x86.Build.0 = Release|Any CPU
+		{776DCC64-37BB-40FD-B682-FA0FB5F9C766}.Debug|xna-4.0-x86.ActiveCfg = Debug|x86
+		{776DCC64-37BB-40FD-B682-FA0FB5F9C766}.Debug|xna-4.0-x86.Build.0 = Debug|x86
+		{776DCC64-37BB-40FD-B682-FA0FB5F9C766}.Release|xna-4.0-x86.ActiveCfg = Release|x86
+		{776DCC64-37BB-40FD-B682-FA0FB5F9C766}.Release|xna-4.0-x86.Build.0 = Release|x86
+		{AB1D61A2-3181-44FA-80BA-B3AB8AAEE887}.Debug|xna-4.0-x86.ActiveCfg = Debug|x86
+		{AB1D61A2-3181-44FA-80BA-B3AB8AAEE887}.Debug|xna-4.0-x86.Build.0 = Debug|x86
+		{AB1D61A2-3181-44FA-80BA-B3AB8AAEE887}.Release|xna-4.0-x86.ActiveCfg = Release|x86
+		{AB1D61A2-3181-44FA-80BA-B3AB8AAEE887}.Release|xna-4.0-x86.Build.0 = Release|x86
+		{86624FF2-BAAF-4052-B30A-4B56563D96EF}.Debug|xna-4.0-x86.ActiveCfg = Debug|Any CPU
+		{86624FF2-BAAF-4052-B30A-4B56563D96EF}.Debug|xna-4.0-x86.Build.0 = Debug|Any CPU
+		{86624FF2-BAAF-4052-B30A-4B56563D96EF}.Release|xna-4.0-x86.ActiveCfg = Release|Any CPU
+		{86624FF2-BAAF-4052-B30A-4B56563D96EF}.Release|xna-4.0-x86.Build.0 = Release|Any CPU
+		{D7E6B623-4535-4155-AE36-C0FC3CDFF9AC}.Debug|xna-4.0-x86.ActiveCfg = Debug|x86
+		{D7E6B623-4535-4155-AE36-C0FC3CDFF9AC}.Debug|xna-4.0-x86.Build.0 = Debug|x86
+		{D7E6B623-4535-4155-AE36-C0FC3CDFF9AC}.Release|xna-4.0-x86.ActiveCfg = Release|x86
+		{D7E6B623-4535-4155-AE36-C0FC3CDFF9AC}.Release|xna-4.0-x86.Build.0 = Release|x86
+		{D200686C-9681-4F69-9638-E5346DDDA48F}.Debug|xna-4.0-x86.ActiveCfg = Debug|Any CPU
+		{D200686C-9681-4F69-9638-E5346DDDA48F}.Debug|xna-4.0-x86.Build.0 = Debug|Any CPU
+		{D200686C-9681-4F69-9638-E5346DDDA48F}.Release|xna-4.0-x86.ActiveCfg = Release|Any CPU
+		{D200686C-9681-4F69-9638-E5346DDDA48F}.Release|xna-4.0-x86.Build.0 = Release|Any CPU
+		{1D290B4A-A7FF-46A3-B166-17758B95EA90}.Debug|xna-4.0-x86.ActiveCfg = Debug|Any CPU
+		{1D290B4A-A7FF-46A3-B166-17758B95EA90}.Release|xna-4.0-x86.ActiveCfg = Debug|Any CPU
+		{37311637-14C1-4D00-9AE1-A68379C2F495}.Debug|xna-4.0-x86.ActiveCfg = Debug|x86
+		{37311637-14C1-4D00-9AE1-A68379C2F495}.Debug|xna-4.0-x86.Build.0 = Debug|x86
+		{37311637-14C1-4D00-9AE1-A68379C2F495}.Release|xna-4.0-x86.ActiveCfg = Release|x86
+		{37311637-14C1-4D00-9AE1-A68379C2F495}.Release|xna-4.0-x86.Build.0 = Release|x86
+		{9F37B100-7009-4E3E-B45D-EB015510F7A8}.Debug|xna-4.0-x86.ActiveCfg = Debug|x86
+		{9F37B100-7009-4E3E-B45D-EB015510F7A8}.Release|xna-4.0-x86.ActiveCfg = Release|x86
+		{BA953898-B551-4937-9940-7B6565137E0B}.Debug|xna-4.0-x86.ActiveCfg = Debug|x86
+		{BA953898-B551-4937-9940-7B6565137E0B}.Release|xna-4.0-x86.ActiveCfg = Release|x86
+		{D872FAE2-D79D-49FA-9FE7-D5FD6961B896}.Debug|xna-4.0-x86.ActiveCfg = Debug|x86
+		{D872FAE2-D79D-49FA-9FE7-D5FD6961B896}.Debug|xna-4.0-x86.Build.0 = Debug|x86
+		{D872FAE2-D79D-49FA-9FE7-D5FD6961B896}.Release|xna-4.0-x86.ActiveCfg = Release|x86
+		{D872FAE2-D79D-49FA-9FE7-D5FD6961B896}.Release|xna-4.0-x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChartTest">
+</Property><Property Name="Solution File" Value="D:\Project\EvaLabv1.4.2beta\Test\ChartTest\ChartTest.sln">
+</Property><Property Name="Date" Value="venerdì 29 maggio 2009">
+</Property><Property Name="Time" Value="23.48.59">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="ChartLibrary" Source="..\ChartLibrary\ChartLibrary.csproj" Description="Project file successfully backed up as D:\Project\EvaLabv1.4.2beta\Test\ChartTest\Backup1\ChartLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="ChartLibrary" Source="..\ChartLibrary\AssemblyInfo.cs" Description="File successfully backed up as D:\Project\EvaLabv1.4.2beta\Test\ChartTest\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChartLibrary" Source="..\ChartLibrary\User.Chart.cs" Description="File successfully backed up as D:\Project\EvaLabv1.4.2beta\Test\ChartTest\Backup1\User.Chart.cs">
+</Event><Event ErrorLevel="0" Project="ChartLibrary" Source="..\ChartLibrary\ChartLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChartLibrary" Source="..\ChartLibrary\ChartLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChartLibrary" Source="..\ChartLibrary\ChartLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

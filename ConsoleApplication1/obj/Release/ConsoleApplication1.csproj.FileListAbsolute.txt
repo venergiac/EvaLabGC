@@ -1,0 +1,60 @@
+D:\Project\WindowsFormsApplication1v1.2\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\WindowsFormsApplication1v1.2\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\WindowsFormsApplication1v1.2\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\WindowsFormsApplication1v1.2\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\WindowsFormsApplication1v1.2\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Giacomo\EvaLabv1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Giacomo\EvaLabv1.4\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.4\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Giacomo\EvaLabv1.4\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.4beta\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.4beta\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.4beta\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.4beta\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.4beta\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.5\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.5\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.5\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.5\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.5\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.6beta\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.6beta\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.6beta\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.6beta\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.6beta\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.7\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.7\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.4.7\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.7\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.4.7\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.5.0\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.5.0\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EvaLabv1.5.0\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.5.0\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EvaLabv1.5.0\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Giacomo\EvaLabv1.5.0\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Giacomo\EvaLabv1.5.0\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Giacomo\EvaLabv1.5.0\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.5.0\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Giacomo\EvaLabv1.5.0\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLabv1.5.2\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Project\EyeTracking\EvaLab\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Project\EyeTracking\EvaLab\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Project\EyeTracking\EvaLab\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Project\EyeTracking\EvaLab\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

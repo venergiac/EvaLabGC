@@ -1,0 +1,27 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Game.Demo.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Game.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Game.Demo.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Game.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Support.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\NMock2.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Testing.Xna.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\nunit.framework.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Game.ContentCompressor.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Graphics.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\LzmaSharp.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Game.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Support.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\NMock2.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Testing.Xna.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\nunit.framework.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Game.ContentCompressor.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\Nuclex.Graphics.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\bin\xna-4.0-x86\Debug\LzmaSharp.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Nuclex.Game.Demo (xna-4.0-x86).csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Nuclex.Game.Demo.Properties.Resources.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Nuclex.Game.Demo.DemoSelectorForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Nuclex.Game.Demo.PackingDemoForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Nuclex.Game.Demo (xna-4.0-x86).csproj.GenerateResource.Cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Nuclex.Game.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Game.Demo\obj\x86\Debug\Nuclex.Game.Demo.pdb

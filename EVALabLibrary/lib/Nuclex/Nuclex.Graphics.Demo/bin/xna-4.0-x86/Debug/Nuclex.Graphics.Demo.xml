@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nuclex.Graphics.Demo</name>
+    </assembly>
+    <members>
+        <member name="M:Nuclex.Graphics.Demo.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Nuclex.Graphics.Demo.GraphicsDemoGame">
+            <summary>
+            This is the main type for your game
+            </summary>
+        </member>
+        <member name="M:Nuclex.Graphics.Demo.GraphicsDemoGame.#ctor">
+            <summary>Initializes a new graphics demo game</summary>
+        </member>
+        <member name="M:Nuclex.Graphics.Demo.GraphicsDemoGame.Initialize">
+            <summary>
+            Allows the game to perform any initialization it needs to before starting to run.
+            This is where it can query for any required services and load any non-graphic
+            related content.  Calling base.Initialize will enumerate through any components
+            and initialize them as well.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Graphics.Demo.GraphicsDemoGame.Dispose(System.Boolean)">
+            <summary>Immediately releases all resources owned by the instance</summary>
+            <param name="disposing">Whether the call was initiated by user code</param>
+        </member>
+        <member name="M:Nuclex.Graphics.Demo.GraphicsDemoGame.LoadContent">
+            <summary>
+            LoadContent will be called once per game and is the place to load
+            all of your content.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Graphics.Demo.GraphicsDemoGame.UnloadContent">
+            <summary>
+            UnloadContent will be called once per game and is the place to unload
+            all content.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Graphics.Demo.GraphicsDemoGame.Update(Microsoft.Xna.Framework.GameTime)">
+            <summary>
+            Allows the game to run logic such as updating the world,
+            checking for collisions, gathering input, and playing audio.
+            </summary>
+            <param name="gameTime">Provides a snapshot of timing values.</param>
+        </member>
+        <member name="M:Nuclex.Graphics.Demo.GraphicsDemoGame.Draw(Microsoft.Xna.Framework.GameTime)">
+            <summary>
+            This is called when the game should draw itself.
+            </summary>
+            <param name="gameTime">Provides a snapshot of timing values.</param>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.tileVertices">
+            <summary>Used to construct a tile for rendering</summary>
+            <remarks>
+              Reusing the same array for this prevents garbage from forming
+            </remarks>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.graphics">
+            <summary>Setups up and manages the graphics device</summary>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.spriteBatch">
+            <summary>XNA's sprite batcher (batches 2D sprites)</summary>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.camera">
+            <summary>Camera managing the location of the viewer in the scene</summary>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.basicEffectContext">
+            <summary>Drawing context that uses the basic effect for rendering</summary>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.vertexDeclaration">
+            <summary>Vertex declaration for the position + color vertex</summary>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.primitiveBatch">
+            <summary>Nuclex' primitive batcher (batches 3D polygons)</summary>
+        </member>
+        <member name="F:Nuclex.Graphics.Demo.GraphicsDemoGame.font">
+            <summary>Font used to display an explanation on the screen</summary>
+        </member>
+    </members>
+</doc>

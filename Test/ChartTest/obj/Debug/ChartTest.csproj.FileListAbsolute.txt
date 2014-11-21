@@ -1,0 +1,9 @@
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\bin\Debug\ChartTest.exe
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\bin\Debug\ChartTest.pdb
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\bin\Debug\ChartLibrary.dll
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\bin\Debug\ChartLibrary.pdb
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\obj\Debug\ChartTest.ShareChart.resources
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\obj\Debug\ChartTest.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\obj\Debug\ChartTest.exe
+D:\Project\EvaLabv1.4.2beta\Test\ChartTest\obj\Debug\ChartTest.pdb

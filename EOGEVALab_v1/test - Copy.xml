@@ -1,0 +1,30 @@
+<task id="EOG" version="1.0">
+	<name>EOG GC Based</name>
+	<description>EOG GC Based</description>
+	<settings>
+	<param name="triggers"><![CDATA[trigger10deg EvaLab.EOG.Trigger.RegionStimulusTrigger 10 20 100 -100
+			trigger5deg EvaLab.EOG.Trigger.RegionStimulusTrigger 10 20 50 -50]]></param>
+<param name="commands"><![CDATA[start 1000 -207 207
+pause 1000 255
+trigger5deg 1000 -207 207
+trigger5deg 1000 200 -200
+trigger5deg 1000 150 -150
+trigger5deg 1000 100 -100
+trigger5deg 1000 -207 207
+trigger5deg 1000 200 -200
+trigger5deg 1000 150 -150
+trigger5deg 1000 100 -100
+second 1000 -207 207
+third 1000 200 -200
+fourth 1000 150 -150
+fifth 1000 100 -100
+second 1000 -207 207
+third 1000 200 -200
+fourth 1000 150 -150
+fifth 1000 -100 100
+second 1000 -207 207
+third 1000 -200 200
+fourth 1000 150 -150
+fifth 1000 100 -100]]></param>
+	</settings>
+</task>

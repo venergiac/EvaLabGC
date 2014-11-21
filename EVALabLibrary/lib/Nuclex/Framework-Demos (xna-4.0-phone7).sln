@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Graphics.Demo (xna-4.0-phone7)", "Nuclex.Graphics.Demo\Nuclex.Graphics.Demo (xna-4.0-phone7).csproj", "{2DBF3949-08B8-4C85-A886-8F64A5B556A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Graphics.Demo.PhoneContent", "Nuclex.Graphics.Demo\Content\Nuclex.Graphics.Demo.PhoneContent.contentproj", "{1622F53A-0154-4F3F-AA39-C1A2D0C4BBF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Any CPU = Release|Any CPU
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Release|Any CPU.ActiveCfg = Release|Windows Phone
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{2DBF3949-08B8-4C85-A886-8F64A5B556A2}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{1622F53A-0154-4F3F-AA39-C1A2D0C4BBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1622F53A-0154-4F3F-AA39-C1A2D0C4BBF5}.Debug|Windows Phone.ActiveCfg = Debug|Any CPU
+		{1622F53A-0154-4F3F-AA39-C1A2D0C4BBF5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1622F53A-0154-4F3F-AA39-C1A2D0C4BBF5}.Release|Windows Phone.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

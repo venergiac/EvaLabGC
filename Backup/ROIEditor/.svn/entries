@@ -1,0 +1,70 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup/ROIEditor
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+ROIEditor.csproj
+file
+
+
+
+add
+
+Form1.resx
+file
+
+
+
+add
+
+Form1.Designer.cs
+file
+
+
+
+add
+
+Form1.cs
+file
+
+
+
+add
+
+Program.cs
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+

@@ -1,0 +1,179 @@
+D:\Project\EvaLabv1.4\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EvaLabv1.4\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EvaLabv1.4\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\bin\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\obj\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.4\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.4beta\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.5\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.5\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.5\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.5\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.5\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EvaLabv1.4.5\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EvaLabv1.4.5\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.5\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.5\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\EVALabLibrary.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\bin\Release\ZedGraph.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.7\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.7\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.7\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.7\EVALabLibrary\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.7\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.5.0\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.5.0\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.5.0\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.5.0\EVALabLibrary\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Properties.Resources.resources
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Graph.EvaListBoxCtrl.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\bin\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\bin\Release\ZedGraph.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALab.Util.Graph.EvaListBoxCtrl.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.5.0\EVALabLibrary\bin\Release\EVALabLibrary.dll.config
+D:\Project\EvaLabv1.5.0\EVALabLibrary\bin\Release\EVALabLibrary.dll.config
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\bin\Release\EVALabLibrary.dll.config
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALab.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALab.Util.Graph.EvaListBoxCtrl.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\EVALabLibrary.dll.config
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\Nuclex.Input.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\NMock2.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\SlimDX.DirectInput.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\nunit.framework.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\Nuclex.Input.xml
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\NMock2.xml
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\SlimDX.DirectInput.xml
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\nunit.framework.xml
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.csproj.ResolveComReference.cache
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.EvaListBoxCtrl.resources
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.License.LicenseForm.resources
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\GenerateResource.read.1.tlog
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\GenerateResource.write.1.tlog
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.csproj.ResolveComReference.cache
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALab.Properties.Resources.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.EvaListBoxCtrl.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.License.LicenseForm.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.csproj.ResolveComReference.cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Properties.Resources.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Box.ExceptionForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Box.SubjectForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.ChartControlForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.ZedChartControlForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.Graph.EvaListBoxCtrl.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALab.Util.License.LicenseForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\EVALabLibrary.dll.config
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\EVALabLibrary.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\EVALabLibrary.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\MathNet.Neodym.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\Nuclex.Input.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\ZedGraph.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\NMock2.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\SlimDX.DirectInput.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\nunit.framework.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\Nuclex.Input.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\NMock2.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\SlimDX.DirectInput.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\nunit.framework.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.csproj.GenerateResource.Cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\Nuclex.Support.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\bin\Release\Nuclex.Support.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\obj\Release\EVALabLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Fonts.Demo\obj\x86\Debug\Nuclex.Fonts.Demo (xna-4.0-x86).csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Fonts.Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

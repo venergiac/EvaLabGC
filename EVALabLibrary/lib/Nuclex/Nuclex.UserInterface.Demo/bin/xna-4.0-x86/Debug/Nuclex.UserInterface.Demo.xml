@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nuclex.UserInterface.Demo</name>
+    </assembly>
+    <members>
+        <member name="T:Nuclex.UserInterface.Demo.UserInterfaceDemoGame">
+            <summary>Demonstrates the capabilities of the Nuclex UserInterface library</summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.#ctor">
+            <summary>Initializes a new instance of the user interface demo</summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.Initialize">
+            <summary>
+              Allows the game to perform any initialization it needs to before starting to run.
+              This is where it can query for any required services and load any non-graphic
+              related content. Calling base.Initialize will enumerate through any components
+              and initialize them as well.
+            </summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.LoadContent">
+            <summary>
+              Load your graphics content. If loadAllContent is true, you should
+              load content from both ResourceManagementMode pools. Otherwise, just
+              load ResourceManagementMode.Manual content.
+            </summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.UnloadContent">
+            <summary>
+              Unload your graphics content. If unloadAllContent is true, you should
+              unload content from both ResourceManagementMode pools. Otherwise, just
+              unload ResourceManagementMode.Manual content. Manual content will get
+              Disposed by the GraphicsDevice during a Reset.
+            </summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.Update(Microsoft.Xna.Framework.GameTime)">
+            <summary>
+              Allows the game to run logic such as updating the world,
+              checking for collisions, gathering input and playing audio.
+            </summary>
+            <param name="gameTime">Provides a snapshot of timing values.</param>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.Draw(Microsoft.Xna.Framework.GameTime)">
+            <summary>This is called when the game should draw itself.</summary>
+            <param name="gameTime">Provides a snapshot of timing values.</param>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.createDesktopControls(Nuclex.UserInterface.Screen)">
+            <summary>
+              Creates the "New Game" and "Quit" buttons directly on the desktop
+            </summary>
+            <param name="mainScreen">
+              Screen to whose desktop the buttons will be added
+            </param>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.graphics">
+            <summary>Initializes and manages the graphics device</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.gui">
+            <summary>Manages the graphical user interface</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.UserInterfaceDemoGame.input">
+            <summary>Manages input devices for the game</summary>
+        </member>
+        <member name="T:Nuclex.UserInterface.Demo.DemoDialog">
+            <summary>Dialog that demonstrates the capabilities of the GUI library</summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.DemoDialog.InitializeComponent">
+            <summary> 
+              Required method for user interface initialization -
+              do modify the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.nameEntryLabel">
+            <summary>A label used ask the user to enter his name</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.nameEntryBox">
+            <summary>Text input control where the user can enter his name</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.rememberOption">
+            <summary>Option the user can select to have his name remembered</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.easyChoice">
+            <summary>Choice for the easy difficulty level</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.normalChoice">
+            <summary>Choice for the normal difficulty level</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.hardChoice">
+            <summary>Choice for the hard difficulty level</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.mapLabel">
+            <summary>A label used ask the user to select a map</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.mapList">
+            <summary>List of maps the player can select from</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.okButton">
+            <summary>Button which exits the dialog and takes over the settings</summary>
+        </member>
+        <member name="F:Nuclex.UserInterface.Demo.DemoDialog.cancelButton">
+            <summary>Button which exits the dialog and discards the settings</summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.DemoDialog.#ctor">
+            <summary>Initializes a new GUI demonstration dialog</summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.DemoDialog.okClicked(System.Object,System.EventArgs)">
+            <summary>Called when the user clicks on the okay button</summary>
+            <param name="sender">Button the user has clicked on</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.DemoDialog.cancelClicked(System.Object,System.EventArgs)">
+            <summary>Called when the user clicks on the cancel button</summary>
+            <param name="sender">Button the user has clicked on</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="T:Nuclex.UserInterface.Demo.Program">
+            <summary>Containsthe program's startup code</summary>
+        </member>
+        <member name="M:Nuclex.UserInterface.Demo.Program.Main(System.String[])">
+            <summary>Main entry point for the application</summary>
+        </member>
+    </members>
+</doc>

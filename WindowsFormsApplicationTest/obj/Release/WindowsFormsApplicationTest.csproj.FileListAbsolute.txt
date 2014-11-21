@@ -1,0 +1,135 @@
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+C:\Giacomo\EvaLabv1.4\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.4beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.5\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\ZedGraph.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.4.7\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form2.resources
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\ZedGraph.dll
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form2.resources
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+C:\Giacomo\EvaLabv1.5.0\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form2.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\CB.mdb
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\Properties\Settings.settings
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.exe
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\WindowsFormsApplicationTest.pdb
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\EVALabAnalysis.exe
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\RKLib.ExportData.dll
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\EVALabAnalysis.pdb
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form1.resources
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Form2.resources
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.exe
+D:\Project\EyeTracking\EvaLab\WindowsFormsApplicationTest\obj\Release\WindowsFormsApplicationTest.pdb

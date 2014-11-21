@@ -1,0 +1,16 @@
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\bin\Debug\calibration.bmp
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\bin\Debug\picture.bmp
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\bin\Debug\Config.ini
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\bin\Debug\EVALabGC.exe
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\bin\Debug\EVALabGC.pdb
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.AboutBox1.resources
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.CalibrateForm.resources
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.ControlForm.resources
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.Form1.resources
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.GCForm.resources
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.Properties.Resources.resources
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.ROIForm.resources
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.exe
+D:\Project\WindowsFormsApplication1v1.2\WindowsFormsApplication1\obj\Debug\EVALabGC.pdb

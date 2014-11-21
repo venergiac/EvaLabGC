@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nuclex.Audio.Demo</name>
+    </assembly>
+    <members>
+        <member name="T:Nuclex.Audio.Demo.Program">
+            <summary>Contains the main program code</summary>
+        </member>
+        <member name="M:Nuclex.Audio.Demo.Program.Main(System.String[])">
+            <summary>Main entry point of the application</summary>
+            <param name="args">Command line arguments passed to the application</param>
+        </member>
+        <member name="M:Nuclex.Audio.Demo.Program.upgradeProtocolLevel(Nuclex.Audio.Metadata.CddbConnection)">
+            <summary>Upgrades the CDDB protocol to the best level we can use</summary>
+            <param name="connection">Connection whose protocol level will be upgraded</param>
+        </member>
+        <member name="M:Nuclex.Audio.Demo.Program.listCategories(Nuclex.Audio.Metadata.CddbConnection)">
+            <summary>Lists the musical categories that are known to the CDDB server</summary>
+            <param name="connection">CDDB server connection that will be queried</param>
+        </member>
+        <member name="M:Nuclex.Audio.Demo.Program.queryExampleAlbum(Nuclex.Audio.Metadata.CddbConnection)">
+            <summary>Queries the server for an example album</summary>
+            <param name="connection">
+              Connection through which the query will take place
+            </param>
+        </member>
+        <member name="M:Nuclex.Audio.Demo.Program.readExampleAlbum(Nuclex.Audio.Metadata.CddbConnection,Nuclex.Audio.Metadata.Cddb.Disc)">
+            <summary>
+              Reads the XMCD database entry for an example album from the server
+            </summary>
+            <param name="connection">
+              Connection through which the read request will be issued
+            </param>
+            <param name="disc">Disc informations of the example album</param>
+        </member>
+    </members>
+</doc>

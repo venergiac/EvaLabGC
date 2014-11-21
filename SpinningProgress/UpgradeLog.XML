@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SpinningProgress">
+</Property><Property Name="Solution File" Value="C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\SpinningProgress.sln">
+</Property><Property Name="User Options File" Value="C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\SpinningProgress.suo">
+</Property><Property Name="Date" Value="venerdì 8 gennaio 2010">
+</Property><Property Name="Time" Value="14.18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SpinningProgress.sln" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\SpinningProgress.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SpinningProgress.suo" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\SpinningProgress.suo">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="SpinningProgress.csproj" Description="Project file successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\SpinningProgress.csproj">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="SpinningProgress.cs" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\SpinningProgress.cs">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="SpinningProgress.designer.cs" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\SpinningProgress.designer.cs">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="SpinningProgress.resx" Description="File successfully backed up as C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\Backup\SpinningProgress.resx">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="SpinningProgress.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SpinningProgress" Source="SpinningProgress.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SpinningProgress.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SpinningProgress.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SpinningProgress" Source="SpinningProgress.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,12 @@
+<task id="T" version="1.0">
+	<name>Theeuwes</name>
+	<description>Theeuwes</description>
+	<settings>
+		<param name="onTime">1200</param>
+		<param name="offTime">600</param>
+		<param name="maxTime">tmt-gray-direction.bmp</param>
+		<param name="ray">265</param>
+		<param name="size">36</param>
+		<param name="centerSize">11</param>
+	</settings>
+</task>

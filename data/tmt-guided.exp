@@ -1,0 +1,13 @@
+ACTION PutInAt tmt-gray-no-direction.bmp 0 0 0 20000
+ROI Transient 860 462 158 150 PutIn 1.bmp 860 462
+ROI Transient 400 142 166 142 PutIn A.bmp 400 142
+ROI Transient 238 606 162 132 PutIn 2.bmp 238 606
+ROI Transient 630 12 178 164 PutIn B.bmp 630 12
+ROI Transient 700 606 166 156 PutIn 3.bmp 700 606
+
+ROI Transient 20 86 156 142 PutIn C.bmp 20 86
+ROI Transient 34 468 184 154 PutIn 4.bmp 34 468
+ROI Transient 842 110 162 150 PutIn D.bmp 842 110
+ROI Transient 420 470 190 170 PutIn 5.bmp 420 470
+ROI Transient 242 10 152 138 PutIn E.bmp 242 10
+ACTION PlaySoundAt exit.wav 20000 22000

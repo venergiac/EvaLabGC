@@ -1,0 +1,16 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\Content\DisplayFont.xnb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\Nuclex.Input.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\Nuclex.Input.Demo.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\Nuclex.Input.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\Nuclex.Support.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\NMock2.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\nunit.framework.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\Nuclex.Input.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\Nuclex.Support.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\NMock2.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\bin\x86\Debug\nunit.framework.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\obj\x86\Debug\Nuclex.Input.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Input.Demo\obj\x86\Debug\Nuclex.Input.Demo.pdb

@@ -1,0 +1,80 @@
+C:\Giacomo\EvaLabv1.4\ROIEditor\bin\Release\ROIEditor.exe
+C:\Giacomo\EvaLabv1.4\ROIEditor\bin\Release\ROIEditor.pdb
+C:\Giacomo\EvaLabv1.4\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.4\ROIEditor\obj\Release\ROIEditor.Form1.resources
+C:\Giacomo\EvaLabv1.4\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.4\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.4\ROIEditor\obj\Release\ROIEditor.exe
+C:\Giacomo\EvaLabv1.4\ROIEditor\obj\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.4beta\ROIEditor\bin\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.4beta\ROIEditor\bin\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.4beta\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.4beta\ROIEditor\obj\Release\ROIEditor.Form1.resources
+D:\Project\EvaLabv1.4.4beta\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+D:\Project\EvaLabv1.4.4beta\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.4beta\ROIEditor\obj\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.4beta\ROIEditor\obj\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.5\ROIEditor\bin\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.5\ROIEditor\bin\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.5\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.5\ROIEditor\obj\Release\ROIEditor.Form1.resources
+D:\Project\EvaLabv1.4.5\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+D:\Project\EvaLabv1.4.5\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.5\ROIEditor\obj\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.5\ROIEditor\obj\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.6beta\ROIEditor\bin\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.6beta\ROIEditor\bin\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.6beta\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.Form1.resources
+D:\Project\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+D:\Project\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\bin\Release\ROIEditor.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\bin\Release\ROIEditor.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.Form1.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\ROIEditor\obj\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.7\ROIEditor\bin\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.7\ROIEditor\bin\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.4.7\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.7\ROIEditor\obj\Release\ROIEditor.Form1.resources
+D:\Project\EvaLabv1.4.7\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+D:\Project\EvaLabv1.4.7\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.7\ROIEditor\obj\Release\ROIEditor.exe
+D:\Project\EvaLabv1.4.7\ROIEditor\obj\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.5.0\ROIEditor\bin\Release\ROIEditor.exe
+D:\Project\EvaLabv1.5.0\ROIEditor\bin\Release\ROIEditor.pdb
+D:\Project\EvaLabv1.5.0\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.Form1.resources
+D:\Project\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+D:\Project\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.exe
+D:\Project\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.pdb
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\bin\Release\ROIEditor.exe
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\bin\Release\ROIEditor.pdb
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.Form1.resources
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.exe
+C:\Giacomo\EvaLabv1.5.0\ROIEditor\obj\Release\ROIEditor.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\bin\Release\ROIEditor.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\bin\Release\ROIEditor.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\obj\Release\ROIEditor.Form1.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\obj\Release\ROIEditor.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\ROIEditor\obj\Release\ROIEditor.pdb
+D:\Project\EyeTracking\EvaLab\ROIEditor\bin\Release\ROIEditor.exe
+D:\Project\EyeTracking\EvaLab\ROIEditor\bin\Release\ROIEditor.pdb
+D:\Project\EyeTracking\EvaLab\ROIEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\ROIEditor\obj\Release\ROIEditor.Form1.resources
+D:\Project\EyeTracking\EvaLab\ROIEditor\obj\Release\ROIEditor.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\ROIEditor\obj\Release\ROIEditor.csproj.GenerateResource.Cache
+D:\Project\EyeTracking\EvaLab\ROIEditor\obj\Release\ROIEditor.exe
+D:\Project\EyeTracking\EvaLab\ROIEditor\obj\Release\ROIEditor.pdb

@@ -1,0 +1,7 @@
+ACTION PutInAt tmt.bmp 0 0 0 10000
+ROI Transient 0 0 100 100 PutIn roi1.bmp 10 10
+ROI Permanent 100 100 200 200 PutIn roi2.bmp 100 100
+ROI Permanent 100 100 200 200 PlaySound entering.wav 20000 22000
+ACTION PutInAt tmt2.bmp 0 0 10000 20000
+ACTION PlaySoundAt exit.wav 20000 22000
+ACTION InterceptAt 50 50 PlaySound entering.wav PlaySound exiting.wav 100 100 200 300 200 200

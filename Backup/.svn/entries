@@ -1,0 +1,112 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+EVALab.suo
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+EVALabLibrary
+dir
+
+
+
+add
+
+ROIEditor
+dir
+
+
+
+add
+
+WindowsFormsApplicationTest
+dir
+
+
+
+add
+
+WindowsFormsApplication1
+dir
+
+
+
+add
+
+ConsoleApplication1
+dir
+
+
+
+add
+
+SpinningProgress
+dir
+
+
+
+add
+
+EOGEVALab_v1
+dir
+
+
+
+add
+
+SetupEvaLab
+dir
+
+
+
+add
+
+EVALab_2008.sln
+file
+
+
+
+add
+
+EVALabAnalysis
+dir
+
+
+
+add
+

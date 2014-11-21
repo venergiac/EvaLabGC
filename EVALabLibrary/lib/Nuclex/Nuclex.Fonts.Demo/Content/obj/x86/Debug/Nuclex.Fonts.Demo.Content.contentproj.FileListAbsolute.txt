@@ -1,0 +1,1 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Fonts.Demo\Content\obj\x86\Debug\Nuclex.Fonts.Demo.Content.contentprojResolveAssemblyReference.cache

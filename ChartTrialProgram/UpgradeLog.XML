@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChartTrialProgram">
+</Property><Property Name="Solution File" Value="D:\ChartControl\ChartTrialProgram\ChartTrialProgram.sln">
+</Property><Property Name="Date" Value="יום ראשון 24 ספטמבר 2006">
+</Property><Property Name="Time" Value="23:31:09">
+</Property></Properties><Event ErrorLevel="0" Project="ChartTrialProgram" Source="ChartTrialProgram.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChartTrialProgram" Source="ChartTrialProgram.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChartTrialProgram" Source="ChartTrialProgram.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

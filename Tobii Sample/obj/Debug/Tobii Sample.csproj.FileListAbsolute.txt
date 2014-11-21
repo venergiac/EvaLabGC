@@ -1,0 +1,46 @@
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationForm.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationResultForm.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationResultPanel.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.FramerateDialog.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.MainForm.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.TrackStatusControl.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.exe
+D:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.pdb
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\SDK Basic Eyetracking Sample.exe
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\SDK Basic Eyetracking Sample.pdb
+D:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.exe.config
+D:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\Tobii.Eyetracking.Sdk.dll
+D:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\tobiisdk.dll
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\GenerateResource.write.1.tlog
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\tobiisdk.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.exe.config
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.exe
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.pdb
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\Tobii.Eyetracking.Sdk.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationForm.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationResultForm.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationResultPanel.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.FramerateDialog.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.MainForm.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.Properties.Resources.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.TrackStatusControl.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\SDK Basic Eyetracking Sample.exe
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\SDK Basic Eyetracking Sample.pdb
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\EVALabLibrary.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\ZedGraph.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\Nuclex.Input.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\MathNet.Neodym.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\NMock2.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SlimDX.DirectInput.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\nunit.framework.dll
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\EVALabLibrary.pdb
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\Nuclex.Input.xml
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\NMock2.xml
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SlimDX.DirectInput.xml
+C:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\nunit.framework.xml
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii Sample.csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.TestForm.resources
+C:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii Sample.csproj.GenerateResource.Cache

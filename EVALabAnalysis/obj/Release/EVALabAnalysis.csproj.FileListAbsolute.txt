@@ -1,0 +1,288 @@
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\Properties\Settings.settings
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\ChartControl.dll
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.4beta\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\CB.mdb
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\Properties\Settings.settings
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\ChartControl.dll
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+D:\Project\EvaLabv1.4.5\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\CB.mdb
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\Properties\Settings.settings
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\ChartControl.dll
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\CB.mdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\Properties\Settings.settings
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\ChartControl.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\ZedGraph.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\CB.mdb
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\Properties\Settings.settings
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\ChartControl.dll
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.4.7\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\CB.mdb
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\Properties\Settings.settings
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\ChartControl.dll
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+D:\Project\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\CB.mdb
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\Properties\Settings.settings
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\ChartControl.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\ZedGraph.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+C:\Giacomo\EvaLabv1.5.0\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\CB.mdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\Properties\Settings.settings
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\ChartControl.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\CB.mdb
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Properties\Settings.settings
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\ChartControl.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Nuclex.Input.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\NMock2.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\SlimDX.DirectInput.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\nunit.framework.dll
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Nuclex.Input.xml
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\NMock2.xml
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\SlimDX.DirectInput.xml
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\nunit.framework.xml
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.ROIDialog.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\GenerateResource.read.1.tlog
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\GenerateResource.write.1.tlog
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+D:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\CB.mdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\Properties\Settings.settings
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\ChartControl.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\ZedGraph.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\Nuclex.Input.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\NMock2.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\SlimDX.DirectInput.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\nunit.framework.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\Nuclex.Input.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\NMock2.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\SlimDX.DirectInput.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\bin\Release\nunit.framework.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.ROIDialog.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+C:\Documents and Settings\evalab\Desktop\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.exe.config
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.exe
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.pdb
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\CB.mdb
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Properties\Settings.Designer.cs
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Properties\Settings.settings
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.exe
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabAnalysis.pdb
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\ChartControl.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabLibrary.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\RKLib.ExportData.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\ZedGraph.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\MathNet.Neodym.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\EVALabLibrary.pdb
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.AboutBox.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.PropertyDlg.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Dialog.ROIDialog.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormCase.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.FormFeatureSelection.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.MainSequence.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Display.PanelPlotControl.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Form1.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.Properties.Resources.resources
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\obj\Release\EVALabAnalysis.csproj.GenerateResource.Cache
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Nuclex.Input.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\NMock2.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\SlimDX.DirectInput.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\nunit.framework.dll
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\Nuclex.Input.xml
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\NMock2.xml
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\SlimDX.DirectInput.xml
+C:\Project\EyeTracking\EvaLab\EVALabAnalysis\bin\Release\nunit.framework.xml

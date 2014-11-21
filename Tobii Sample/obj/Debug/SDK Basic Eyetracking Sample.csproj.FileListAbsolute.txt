@@ -1,0 +1,30 @@
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\bin\Debug\tobiisdk.dll
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\bin\Debug\SDK Basic Eyetracking Sample.exe
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\bin\Debug\SDK Basic Eyetracking Sample.pdb
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\bin\Debug\Tobii.Eyetracking.Sdk.dll
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK_Basic_Eyetracking_Sample.CalibrationForm.resources
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK_Basic_Eyetracking_Sample.CalibrationResultForm.resources
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK_Basic_Eyetracking_Sample.CalibrationResultPanel.resources
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK_Basic_Eyetracking_Sample.FramerateDialog.resources
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK_Basic_Eyetracking_Sample.MainForm.resources
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK_Basic_Eyetracking_Sample.Properties.Resources.resources
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK_Basic_Eyetracking_Sample.TrackStatusControl.resources
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK Basic Eyetracking Sample.exe
+C:\Users\giacomo\Downloads\TobiiSDK-win\TobiiSDK-win\tobiisdk-3.0.2-Win32\Win32\Net\Examples\Basic Eyetracking Sample\obj\Debug\SDK Basic Eyetracking Sample.pdb
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationForm.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationResultForm.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.CalibrationResultPanel.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.FramerateDialog.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.MainForm.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\Tobii.Util.TrackStatusControl.resources
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\SDK Basic Eyetracking Sample.pdb
+D:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.exe
+D:\Project\EyeTracking\EvaLab\Tobii Sample\bin\Debug\SDK Basic Eyetracking Sample.pdb
+D:\Project\EyeTracking\EvaLab\Tobii Sample\obj\Debug\SDK Basic Eyetracking Sample.exe

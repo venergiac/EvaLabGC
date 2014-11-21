@@ -1,0 +1,81 @@
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.pdb
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Form1.resources
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.GenerateResource.Cache
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.exe
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.pdb
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\INPOUT32.DLL
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe.config
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe.config
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.exe
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.pdb
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.pdb
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Form1.resources
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Properties.Resources.resources
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.GenerateResource.Cache
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\inpout32.dll
+C:\Users\giacomo\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\inpoutx64.dll
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\inpoutx64.dll
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.ResolveComReference.cache
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.AboutBox.resources
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.FormGraph.resources
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\ZedGraph.dll
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\NationalInstruments.Common.dll
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\NationalInstruments.Common.xml
+D:\Project\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe.config
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.ResolveComReference.cache
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.exe
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.pdb
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.AboutBox.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Form1.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.FormGraph.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Properties.Resources.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\inpout32.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\inpoutx64.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.pdb
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\NationalInstruments.Common.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Debug\ZedGraph.dll
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe.config
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.ResolveComReference.cache
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.exe
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.pdb
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\inpout32.dll
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\inpoutx64.dll
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.pdb
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\ZedGraph.dll
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.AboutBox.resources
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Form1.resources
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.FormGraph.resources
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.GenerateResource.Cache
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\NationalInstruments.Common.dll
+D:\Project\EOGEVALab_v1.1\EOGEVALab_v1\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\inpout32.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\inpoutx64.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe.config
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\NationalInstruments.Common.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Debug\ZedGraph.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.ResolveComReference.cache
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.AboutBox.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Form1.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.FormGraph.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Debug\EOGEVALab_v1.pdb

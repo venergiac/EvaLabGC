@@ -1,0 +1,8 @@
+<task id="GC" version="1.0">
+	<name>GazeContingent TMT_CB-24</name>
+	<description>GazeContingent TMT_CB-24</description>
+	<settings>
+		<param name="background">tmt_blurred.bmp</param>
+		<param name="foreground">tmt_red_CB-24.bmp</param>
+	</settings>
+</task>

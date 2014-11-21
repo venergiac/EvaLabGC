@@ -1,0 +1,70 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup/EVALabAnalysis/CaseBase
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+Case.cs
+file
+
+
+
+add
+
+NumericFeature.cs
+file
+
+
+
+add
+
+Result.cs
+file
+
+
+
+add
+
+CBManager.cs
+file
+
+
+
+add
+
+MetaFeature.cs
+file
+
+
+
+add
+
+IFeature.cs
+file
+
+
+
+add
+

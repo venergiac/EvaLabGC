@@ -1,0 +1,17 @@
+<task id="ROI" version="1.0">
+	<name>EXP1 ROI Based</name>
+	<description>EXP1 ROI Based</description>
+	<settings>
+		<param name="moveNext">true</param>
+		<param name="commands"><![CDATA[
+ACTION PutInAt 1.bmp 0 0 1 10000
+ACTION PlaySoundAt exit.wav 1 1000
+ACTION PutInAt 2.bmp 0 0 10000 20000
+ACTION PlaySoundAt exit.wav 20000 30000
+ACTION PutInAt 3.bmp 0 0 20000 30000
+ACTION PutInAt 4.bmp 0 0 30000 40000
+ACTION PlaySoundAt entering.wav 30000 40000
+STOP 40000
+]]></param>
+	</settings>
+</task>

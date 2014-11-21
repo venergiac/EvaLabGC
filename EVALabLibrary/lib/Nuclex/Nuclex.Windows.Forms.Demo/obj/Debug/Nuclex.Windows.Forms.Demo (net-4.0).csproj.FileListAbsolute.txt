@@ -1,0 +1,16 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\bin\net-4.0\Debug\Nuclex.Windows.Forms.Demo.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\bin\net-4.0\Debug\Nuclex.Windows.Forms.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\bin\net-4.0\Debug\Nuclex.Windows.Forms.Demo.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\bin\net-4.0\Debug\Nuclex.Support.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\bin\net-4.0\Debug\Nuclex.Windows.Forms.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\bin\net-4.0\Debug\Nuclex.Support.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\bin\net-4.0\Debug\Nuclex.Windows.Forms.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo (net-4.0).csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo.Properties.Resources.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo.ContainerListViewDemoForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo.DemoSelectorForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo.ProgressBarDemoForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo.TrackingBarDemoForm.resources
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo (net-4.0).csproj.GenerateResource.Cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Windows.Forms.Demo\obj\Debug\Nuclex.Windows.Forms.Demo.pdb

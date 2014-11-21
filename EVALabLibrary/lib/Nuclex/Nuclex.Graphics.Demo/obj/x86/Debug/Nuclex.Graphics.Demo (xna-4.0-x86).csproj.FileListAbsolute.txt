@@ -1,0 +1,17 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Content\Test.xnb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Graphics.Demo.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Graphics.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Graphics.Demo.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Graphics.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Support.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Testing.Xna.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\NMock2.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\nunit.framework.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Graphics.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Support.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\Nuclex.Testing.Xna.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\NMock2.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\bin\xna-4.0-x86\Debug\nunit.framework.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\obj\x86\Debug\Nuclex.Graphics.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Graphics.Demo\obj\x86\Debug\Nuclex.Graphics.Demo.pdb

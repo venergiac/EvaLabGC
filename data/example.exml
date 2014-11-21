@@ -1,0 +1,7 @@
+<task id="GC" version="1.0">
+	<name>example</name>
+	<description>my description</description>
+	<settings>
+		<param name="p1">v1</param>
+	</settings>
+</task>

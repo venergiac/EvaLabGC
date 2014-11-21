@@ -1,0 +1,15 @@
+<task id="ROI" version="1.0">
+	<name>ROI Based</name>
+	<description>ROI Based</description>
+	<settings>
+		<param name="commands"><![CDATA[
+ACTION PutInAt 4.bmp 0 0 1 1000
+ACTION PlaySoundAt exit.wav 1 1000
+ACTION PutInAt 5.bmp 0 0 1000 2000
+ACTION PlaySoundAt exit.wav 1000 2000
+ACTION PutInAt 1.bmp 0 0 2000 3000
+ACTION PlaySoundAt entering.wav 2000 3000
+STOP 3000
+]]></param>
+	</settings>
+</task>

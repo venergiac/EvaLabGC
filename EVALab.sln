@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOGEVALab", "EOGEVALab_v1\EOGEVALab.csproj", "{13279E28-4BDC-4FA9-AEF3-0208F13E60E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVALabLibrary", "EVALabLibrary\EVALabLibrary.csproj", "{93818B41-4622-4D0E-BD20-B865A257EB8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseTool", "LicenseTool\LicenseTool.csproj", "{731C6278-C7D1-45F7-8324-90CF887B08A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2012", "Setup2010\Setup2010.vdproj", "{B625ADB7-A819-4820-88BC-9D4D45CF45E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaLabGC", "WindowsFormsApplication1\EvaLabGC.csproj", "{B9DE116B-6CFB-42F7-8D5A-9723DBA7BC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVALabAnalysis", "EVALabAnalysis\EVALabAnalysis.csproj", "{770D421F-F675-4CA3-A6E8-DE604F17F94E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A859FD15-750C-4F3B-8A0E-8E7AC348EA2B}"
+	ProjectSection(SolutionItems) = preProject
+		EVALab.vsmdi = EVALab.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tobii Sample", "Tobii Sample\Tobii Sample.csproj", "{09EA5D83-F650-4D5F-9FE0-46D92B444E56}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupEvaLabAnalysis", "SetupEvaLabAnalysis\SetupEvaLabAnalysis.vdproj", "{FB72EC1A-87F8-45CC-A673-796FD08886DA}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = EVALab.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13279E28-4BDC-4FA9-AEF3-0208F13E60E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13279E28-4BDC-4FA9-AEF3-0208F13E60E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13279E28-4BDC-4FA9-AEF3-0208F13E60E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13279E28-4BDC-4FA9-AEF3-0208F13E60E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93818B41-4622-4D0E-BD20-B865A257EB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93818B41-4622-4D0E-BD20-B865A257EB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93818B41-4622-4D0E-BD20-B865A257EB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93818B41-4622-4D0E-BD20-B865A257EB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731C6278-C7D1-45F7-8324-90CF887B08A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731C6278-C7D1-45F7-8324-90CF887B08A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731C6278-C7D1-45F7-8324-90CF887B08A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731C6278-C7D1-45F7-8324-90CF887B08A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B625ADB7-A819-4820-88BC-9D4D45CF45E5}.Debug|Any CPU.ActiveCfg = Debug
+		{B625ADB7-A819-4820-88BC-9D4D45CF45E5}.Release|Any CPU.ActiveCfg = Release
+		{B625ADB7-A819-4820-88BC-9D4D45CF45E5}.Release|Any CPU.Build.0 = Release
+		{B9DE116B-6CFB-42F7-8D5A-9723DBA7BC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DE116B-6CFB-42F7-8D5A-9723DBA7BC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DE116B-6CFB-42F7-8D5A-9723DBA7BC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DE116B-6CFB-42F7-8D5A-9723DBA7BC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770D421F-F675-4CA3-A6E8-DE604F17F94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770D421F-F675-4CA3-A6E8-DE604F17F94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770D421F-F675-4CA3-A6E8-DE604F17F94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770D421F-F675-4CA3-A6E8-DE604F17F94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EA5D83-F650-4D5F-9FE0-46D92B444E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EA5D83-F650-4D5F-9FE0-46D92B444E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EA5D83-F650-4D5F-9FE0-46D92B444E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EA5D83-F650-4D5F-9FE0-46D92B444E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB72EC1A-87F8-45CC-A673-796FD08886DA}.Debug|Any CPU.ActiveCfg = Debug
+		{FB72EC1A-87F8-45CC-A673-796FD08886DA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

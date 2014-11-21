@@ -1,0 +1,288 @@
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\inpout32.dll
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\inpoutx64.dll
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\ZedGraph.dll
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+C:\Giacomo\EvaLabv1.4\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.4beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.5\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Test.TestParallelForm.resources
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\inpout32.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\inpoutx64.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\ZedGraph.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+C:\Documents and Settings\alessandra rufa\Desktop\EvaLabv1.4.6beta\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Test.TestParallelForm.resources
+D:\Project\EvaLabv1.4.7\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Test.TestParallelForm.resources
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\inpout32.dll
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\inpoutx64.dll
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\ZedGraph.dll
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Test.TestParallelForm.resources
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+C:\Giacomo\EvaLabv1.5.0\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.ResolveComReference.cache
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Test.TestParallelForm.resources
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EyeTracking\EvaLabv1.5.2\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\inpout32.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\inpoutx64.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\ZedGraph.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\Nuclex.Input.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NMock2.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\SlimDX.DirectInput.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\nunit.framework.dll
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\Nuclex.Input.xml
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NMock2.xml
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\SlimDX.DirectInput.xml
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\nunit.framework.xml
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.AboutBox.resources
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Form1.resources
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.FormGraph.resources
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Test.TestParallelForm.resources
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\GenerateResource.read.1.tlog
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\GenerateResource.write.1.tlog
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+D:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\inpout32.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\inpoutx64.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\ZedGraph.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\Nuclex.Input.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\NMock2.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\SlimDX.DirectInput.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\nunit.framework.dll
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\Nuclex.Input.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\NMock2.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\SlimDX.DirectInput.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\bin\Release\nunit.framework.xml
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.AboutBox.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Form1.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.FormGraph.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Properties.Resources.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Test.TestParallelForm.resources
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+C:\Documents and Settings\evalab\Desktop\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\inpout32.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\inpoutx64.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EVALabLibrary.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\ZedGraph.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\MathNet.Neodym.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\EVALabLibrary.pdb
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.AboutBox.resources
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Form1.resources
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.FormGraph.resources
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Properties.Resources.resources
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EvaLab.EOG.Test.TestParallelForm.resources
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab.csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\obj\Release\EOGEVALab.csproj.GenerateResource.Cache
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\Nuclex.Input.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NMock2.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\SlimDX.DirectInput.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\nunit.framework.dll
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\Nuclex.Input.xml
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\NMock2.xml
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\SlimDX.DirectInput.xml
+C:\Project\EyeTracking\EvaLab\EOGEVALab_v1\bin\Release\nunit.framework.xml

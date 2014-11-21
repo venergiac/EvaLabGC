@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nuclex.Game.Demo</name>
+    </assembly>
+    <members>
+        <member name="T:Nuclex.Game.Demo.Program">
+            <summary>Contains the program's start up</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.Program.Main">
+            <summary>The main entry point for the application.</summary>
+        </member>
+        <member name="T:Nuclex.Game.Demo.DemoSelectorForm">
+            <summary>Form that lets the user select which demo to run</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.DemoSelectorForm.#ctor">
+            <summary>Initializes a new demo selection form</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.DemoSelectorForm.spatialPartitioningDemoButtonClicked(System.Object,System.EventArgs)">
+            <summary>
+              Called when the spatial partitioning demo button has been clicked on
+            </summary>
+            <param name="sender">Button that has been clicked on</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Game.Demo.DemoSelectorForm.rectanglePackingDemoButtonClicked(System.Object,System.EventArgs)">
+            <summary>
+              Called when the rectangle packing demo button has been clicked on
+            </summary>
+            <param name="sender">Button that has been clicked on</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="F:Nuclex.Game.Demo.DemoSelectorForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.DemoSelectorForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Nuclex.Game.Demo.DemoSelectorForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Nuclex.Game.Demo.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Nuclex.Game.Demo.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Nuclex.Game.Demo.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Nuclex.Game.Demo.PackingDemoForm">
+            <summary>Demonstrates the rectangle packing algorithms</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.components">
+            <summary>Required designer variable.</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.Dispose(System.Boolean)">
+            <summary>Cleans up any resources being used.</summary>
+            <param name="disposing">
+              True if managed resources should be disposed; otherwise, false.
+            </param>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.InitializeComponent">
+            <summary>
+              Required method for Designer support - do not modify
+              the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.packingControlsGroup">
+            <summary>Group that holds the controls to configure the packing demo</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.packButton">
+            <summary>Runs the packing algorithm with the current settings</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.maximumHeightLabel">
+            <summary>Description for the maximum rectangle height field</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.packingAlgorithmLabel">
+            <summary>Description for the packing algorithm selection combo</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.minimumHeightLabel">
+            <summary>Description for the minimum rectangle height field</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.packingAlgorithmCombo">
+            <summary>List for the selection of a rectangle packing algorithm</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.maximumWidthLabel">
+            <summary>Description of the maximum rectangle width field</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.minimumWidthLabel">
+            <summary>Description of the minimum rectangle width field</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.maximumRectangleSizeLabel">
+            <summary>Descrtiption for the maximum rectangle size row</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.maximumHeightEdit">
+            <summary>Controls the maximum height of the generated rectangles</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.minimumRectangleSizeLabel">
+            <summary>Descrtiption for the minimum rectangle size row</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.maximumWidthEdit">
+            <summary>Controls the maximum width of the generated rectangles</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.minimumHeightEdit">
+            <summary>Controls the minimum height of the generated rectangles</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.minimumWidthEdit">
+            <summary>Controls the minimum width of the generated rectangles</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.packingViewPicture">
+            <summary>Displays the results of the executed packing algorithm</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.#ctor">
+            <summary>Initializes a new rectangle packing demonstration form</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.paintPackingViewPicture(System.Object,System.Windows.Forms.PaintEventArgs)">
+            <summary>Renders the packed rectangles into the packing view picture box</summary>
+            <param name="sender">Picture box that is being redrawn</param>
+            <param name="arguments">
+              Contains the graphics interface through which we can draw into the picture box
+            </param>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.packingViewResized(System.Object,System.EventArgs)">
+            <summary>Updates the size label for the packing view</summary>
+            <param name="sender">Packing view picture box that has been resized</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.packButtonClicked(System.Object,System.EventArgs)">
+            <summary>Called when the pack button has been clicked on</summary>
+            <param name="sender">Button that has been clicked on</param>
+            <param name="arguments">Not used</param>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.createRandomDimensions">
+            <summary>
+              Creates random dimensions for a rectangle according to the sizes specified
+              by the user through the dialog controls
+            </summary>
+            <returns>The dimensions of a random rectangle</returns>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.initializePackerCombo">
+            <summary>Initializes a the packer combo box</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.floatRectangleFromRectangle(System.Drawing.Rectangle)">
+            <summary>Converts an integer rectangle into a floating point rectangle</summary>
+            <param name="rectangle">Integer rectangle that will be converted</param>
+            <returns>
+              A floating point rectangle that is equivalent to the integer rectangle
+            </returns>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.randomNumberGenerator">
+            <summary>Random number generator used to generate the rectangles</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.employer">
+            <summary>Employer used to find compatible rectangle packers</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.pluginHost">
+            <summary>Hosts any plugins loaded into the process</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.packedRectangles">
+            <summary>The packed rectangles from the last packer run</summary>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.packingTime">
+            <summary>Time needed for the last packing run</summary>
+        </member>
+        <member name="T:Nuclex.Game.Demo.PackingDemoForm.IRectanglePackerFactory">
+            <summary>Interface for a rectangle packer factory</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.IRectanglePackerFactory.CreatePacker(System.Int32,System.Int32)">
+            <summary>Creates a new packer for a packing area of the specified size</summary>
+            <param name="packingAreaWidth">Width of the packing area</param>
+            <param name="packingAreaHeight">Height of the packing area</param>
+            <returns>The newly created rectangle packer</returns>
+        </member>
+        <member name="P:Nuclex.Game.Demo.PackingDemoForm.IRectanglePackerFactory.PackerName">
+            <summary>Human readable name of the rectangle packer</summary>
+        </member>
+        <member name="T:Nuclex.Game.Demo.PackingDemoForm.DynamicRectanglePackerFactory">
+            <summary>
+              Dynamic factory that can be configured to produce any packer by reflection
+            </summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.DynamicRectanglePackerFactory.#ctor(System.Type)">
+            <summary>Initializes a new dynamic rectangle packer factory</summary>
+            <param name="packerType">
+              Type of the rectangle packer that will be produced
+            </param>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.DynamicRectanglePackerFactory.IsCompatible(System.Type)">
+            <summary>Determines whether the factory </summary>
+            <param name="packerType">
+              Type of the packer whose compatibility will be checked
+            </param>
+            <returns>True if the packer is compatible for this factory</returns>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.DynamicRectanglePackerFactory.CreatePacker(System.Int32,System.Int32)">
+            <summary>
+              Creates a packer for a packing area of the specified dimensions
+            </summary>
+            <param name="packingAreaWidth">Width of the packing area</param>
+            <param name="packingAreaHeight">Height of the packing area</param>
+            <returns>The newly creating rectangle packer</returns>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.DynamicRectanglePackerFactory.getPackerConstructor(System.Type)">
+            <summary>
+              Retrieves the constructor of the packer the generic variant of this class
+              has been specialized for
+            </summary>
+            <param name="packerType">
+              Type of the packer whose constructor will be returned
+            </param>
+            <returns>The constructor of the provided packer type</returns>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.DynamicRectanglePackerFactory.packerType">
+            <summary>Type of the packer this factory instance is constructing</summary>
+        </member>
+        <member name="P:Nuclex.Game.Demo.PackingDemoForm.DynamicRectanglePackerFactory.PackerName">
+            <summary>Human-readable name of the rectangle packer</summary>
+        </member>
+        <member name="T:Nuclex.Game.Demo.PackingDemoForm.RectanglePackerEmployer">
+            <summary>Employs factories for all compatible rectangle packers</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.RectanglePackerEmployer.#ctor">
+            <summary>Initializes a new rectangle packer employer</summary>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.RectanglePackerEmployer.CanEmploy(System.Type)">
+            <summary>Determines whether the type suites the employer's requirements</summary>
+            <param name="type">Type that is checked for employability</param>
+            <returns>True if the type can be employed</returns>
+        </member>
+        <member name="M:Nuclex.Game.Demo.PackingDemoForm.RectanglePackerEmployer.Employ(System.Type)">
+            <summary>Employs the specified plugin type</summary>
+            <param name="type">Type to be employed</param>
+        </member>
+        <member name="F:Nuclex.Game.Demo.PackingDemoForm.RectanglePackerEmployer.factories">
+            <summary>Factories for the rectangle packer we have employed</summary>
+        </member>
+        <member name="P:Nuclex.Game.Demo.PackingDemoForm.RectanglePackerEmployer.Factories">
+            <summary>Factories for the employed rectangle packers</summary>
+        </member>
+    </members>
+</doc>

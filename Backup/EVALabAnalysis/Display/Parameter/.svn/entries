@@ -1,0 +1,56 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup/EVALabAnalysis/Display/Parameter
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+DataParams.cs
+file
+
+
+
+add
+
+FixationParams.cs
+file
+
+
+
+add
+
+SaccadeParams.cs
+file
+
+
+
+add
+
+FilterParams.cs
+file
+
+
+
+add
+

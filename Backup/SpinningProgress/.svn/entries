@@ -1,0 +1,63 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup/SpinningProgress
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+SpinningProgress.csproj
+file
+
+
+
+add
+
+SpinningProgress.resx
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+
+SpinningProgress.designer.cs
+file
+
+
+
+add
+
+SpinningProgress.cs
+file
+
+
+
+add
+

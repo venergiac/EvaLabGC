@@ -1,0 +1,18 @@
+From Verison 1.0.0.8, InpOut provides basic DLPortIO compatibility, for use with LCDSmartie etc.
+
+It has been tested with some applications but not extensivly. To use InpOut32 INSTEAD of DLPortIO, 
+and allow older applications to run on x64 machines, simply RENAME (or copy) the 32bit DLL (in the \Win32 folder) 
+"InpOut32.dll" to "DLPortIO.DLL", and replace the existing DLPortIO.DLL in your application's main folder (if it 
+is not there, search your drive for DLPortIO.DLL and replace any instance you find!).
+
+For example...
+To use with an old version of LCD smartie that does NOT nativly support InpOut32: 
+
+  o  Take the 32bit DLL (in \Win32) and rename it to DLPortIO.dll.
+  o  Copy this DLL to your LCD Smartie folder.
+  o  Run LCD Smartie and see if it talks to your parallel LCD Display.
+  
+Let me know if you have any problems.
+
+Thanks,
+Phil (Phil@Highrez.co.uk)

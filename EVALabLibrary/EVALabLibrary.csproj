@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{93818B41-4622-4D0E-BD20-B865A257EB8E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EVALab</RootNamespace>
+    <AssemblyName>EVALabLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MathNet.Neodym, Version=2008.2.2.364, Culture=neutral, PublicKeyToken=c061a3ec32cc0c6f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MathNet.Neodym-2008.2.2.364\ForRedistribution\MathNet.Neodym.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Xna.Framework">
+      <HintPath>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics">
+      <HintPath>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Graphics.dll</HintPath>
+    </Reference>
+    <Reference Include="Nuclex.Input">
+      <HintPath>lib\Nuclex\References\framework\xna-4.0-x86\Nuclex.Input.dll</HintPath>
+    </Reference>
+    <Reference Include="Nuclex.Support">
+      <HintPath>lib\Nuclex\References\framework\xna-4.0-x86\Nuclex.Support.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.2.878, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analysis\Data\DataList.cs" />
+    <Compile Include="Analysis\DataObject.cs" />
+    <Compile Include="Analysis\Data\DataManager.cs" />
+    <Compile Include="Analysis\Filter\FilterManager.cs" />
+    <Compile Include="Analysis\Fixation\FixationList.cs" />
+    <Compile Include="Analysis\Fixation\FixationManager.cs" />
+    <Compile Include="Analysis\Indicator\IndicatorList.cs" />
+    <Compile Include="Analysis\ROI\ROI.cs" />
+    <Compile Include="Analysis\ROI\ROIList.cs" />
+    <Compile Include="Analysis\ROI\ROIManager.cs" />
+    <Compile Include="Analysis\ROI\SquareROI.cs" />
+    <Compile Include="Analysis\Saccade\SaccadeList.cs" />
+    <Compile Include="Analysis\Saccade\SaccadeManager.cs" />
+    <Compile Include="Analysis\Trial.cs" />
+    <Compile Include="Analysis\Util\TaskManager.cs" />
+    <Compile Include="Analysis\WaveForm\WaveFormList.cs" />
+    <Compile Include="Analysis\WaveForm\WaveFormManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Util\BigInteger.cs" />
+    <Compile Include="Util\Box\ExceptionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\Box\ExceptionForm.Designer.cs">
+      <DependentUpon>ExceptionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\Box\ExtendedFolderBrowser.cs" />
+    <Compile Include="Util\Box\SubjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\Box\SubjectForm.Designer.cs">
+      <DependentUpon>SubjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\Filter\Butterworth.cs" />
+    <Compile Include="Util\Filter\FIR.cs" />
+    <Compile Include="Util\Filter\IFilter.cs" />
+    <Compile Include="Util\Filter\Median.cs" />
+    <Compile Include="Util\Filter\ReactiveFIR.cs" />
+    <Compile Include="Util\Graph\ChartControlForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Util\Graph\EListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Util\Graph\EListBox.Designer.cs">
+      <DependentUpon>EListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\Graph\EvaListBoxCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Util\Graph\EvaListBoxCtrl.Designer.cs">
+      <DependentUpon>EvaListBoxCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\Graph\ZedChartControlForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Util\Graph\ZedChartControlForm.Designer.cs">
+      <DependentUpon>ZedChartControlForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\IniFile.cs" />
+    <Compile Include="Util\Input\ForceFeedbackManager.cs" />
+    <Compile Include="Util\Input\XIDDevice.cs" />
+    <Compile Include="Util\Input\XIDEvent.cs" />
+    <Compile Include="Util\Input\Joystick.cs" />
+    <Compile Include="Util\IO\CSVReader.cs" />
+    <Compile Include="Util\IO\ExcelExporter.cs" />
+    <Compile Include="Util\IO\StringConverter.cs" />
+    <Compile Include="Util\License\DesigntimeRegistryLicense.cs" />
+    <Compile Include="Util\License\FakeApp.cs" />
+    <Compile Include="Util\License\LicenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\License\LicenseForm.Designer.cs">
+      <DependentUpon>LicenseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\License\RegistryLicenseProvider.cs" />
+    <Compile Include="Util\License\RuntimeRegistryLicense.cs" />
+    <Compile Include="Util\Math.cs" />
+    <Compile Include="Util\Meta\ExperimentSettings.cs" />
+    <Compile Include="Util\Output\Graphic.cs" />
+    <Compile Include="Util\Performance\PerformanceUtil.cs" />
+    <Compile Include="Util\Statistics\Descriptive.cs" />
+    <Compile Include="Util\Timer\HiPerfTimer.cs" />
+    <Compile Include="Util\View\DataGridViewNumericUpDownElements\DataGridViewNumericUpDownCell.cs" />
+    <Compile Include="Util\View\DataGridViewNumericUpDownElements\DataGridViewNumericUpDownColumn.cs" />
+    <Compile Include="Util\View\DataGridViewNumericUpDownElements\DataGridViewNumericUpDownEditingControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Util\Xna\Object\ContentBuilder.cs" />
+    <Compile Include="Util\Xna\Object\ErrorLogger.cs" />
+    <Compile Include="Util\Xna\Object\GraphicsDeviceControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Util\Xna\Object\GraphicsDeviceService.cs" />
+    <Compile Include="Util\Xna\Object\ServiceContainer.cs" />
+    <Compile Include="Util\Xna\Object\TextureLoader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\Box\ExceptionForm.resx">
+      <DependentUpon>ExceptionForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\Box\SubjectForm.resx">
+      <DependentUpon>SubjectForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\Graph\ChartControlForm.resx">
+      <DependentUpon>ChartControlForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\Graph\ZedChartControlForm.resx">
+      <DependentUpon>ZedChartControlForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Util\Graph\EvaListBoxCtrl.resx">
+      <DependentUpon>EvaListBoxCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\Graph\Icons\clipboard_sign.png" />
+    <EmbeddedResource Include="Util\License\LicenseForm.resx">
+      <DependentUpon>LicenseForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

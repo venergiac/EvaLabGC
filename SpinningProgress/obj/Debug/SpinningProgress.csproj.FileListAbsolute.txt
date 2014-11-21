@@ -1,0 +1,17 @@
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\bin\Debug\SpinningProgress.dll
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\bin\Debug\SpinningProgress.pdb
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\obj\Debug\Uecomm.SpinningProgress.Properties.Resources.resources
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\obj\Debug\CircularProgress.SpinningProgress.SpinningProgress.resources
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\obj\Debug\SpinningProgress.csproj.GenerateResource.Cache
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\obj\Debug\SpinningProgress.dll
+C:\Users\giacomo\Downloads\sql2005circularprogress-csharp2_src\net2.0\SpinningProgress\obj\Debug\SpinningProgress.pdb
+D:\Project\EyeTracking\EvaLab\SpinningProgress\bin\Debug\SpinningProgress.dll
+D:\Project\EyeTracking\EvaLab\SpinningProgress\bin\Debug\SpinningProgress.pdb
+D:\Project\EyeTracking\EvaLab\SpinningProgress\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\SpinningProgress\obj\Debug\Uecomm.SpinningProgress.Properties.Resources.resources
+D:\Project\EyeTracking\EvaLab\SpinningProgress\obj\Debug\CircularProgress.SpinningProgress.SpinningProgress.resources
+D:\Project\EyeTracking\EvaLab\SpinningProgress\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project\EyeTracking\EvaLab\SpinningProgress\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project\EyeTracking\EvaLab\SpinningProgress\obj\Debug\SpinningProgress.dll
+D:\Project\EyeTracking\EvaLab\SpinningProgress\obj\Debug\SpinningProgress.pdb

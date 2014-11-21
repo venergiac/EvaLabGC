@@ -1,0 +1,5 @@
+D:\Project\EvaLabv1.4.2beta\Test\ChartLibrary\bin\Debug\ChartLibrary.dll
+D:\Project\EvaLabv1.4.2beta\Test\ChartLibrary\bin\Debug\ChartLibrary.pdb
+D:\Project\EvaLabv1.4.2beta\Test\ChartLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EvaLabv1.4.2beta\Test\ChartLibrary\obj\Debug\ChartLibrary.dll
+D:\Project\EvaLabv1.4.2beta\Test\ChartLibrary\obj\Debug\ChartLibrary.pdb

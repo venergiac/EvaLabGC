@@ -1,0 +1,10 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\bin\net-4.0\Debug\Nuclex.Networking.Demo.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\bin\net-4.0\Debug\Nuclex.Networking.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\bin\net-4.0\Debug\Nuclex.Networking.Demo.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\bin\net-4.0\Debug\Nuclex.Networking.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\bin\net-4.0\Debug\Nuclex.Support.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\bin\net-4.0\Debug\Nuclex.Networking.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\bin\net-4.0\Debug\Nuclex.Support.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\obj\Debug\Nuclex.Networking.Demo (net-4.0).csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\obj\Debug\Nuclex.Networking.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Networking.Demo\obj\Debug\Nuclex.Networking.Demo.pdb

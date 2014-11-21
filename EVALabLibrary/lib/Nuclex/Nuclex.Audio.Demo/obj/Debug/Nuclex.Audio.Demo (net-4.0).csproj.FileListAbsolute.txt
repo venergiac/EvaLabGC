@@ -1,0 +1,12 @@
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Audio.Demo.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Audio.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Audio.Demo.pdb
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Audio.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Support.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Networking.dll
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Audio.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Support.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\bin\net-4.0\Debug\Nuclex.Networking.xml
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\obj\Debug\Nuclex.Audio.Demo (net-4.0).csprojResolveAssemblyReference.cache
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\obj\Debug\Nuclex.Audio.Demo.exe
+C:\Project\EyeTracking\EvaLab\EVALabLibrary\lib\Nuclex\Nuclex.Audio.Demo\obj\Debug\Nuclex.Audio.Demo.pdb

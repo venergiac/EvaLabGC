@@ -1,0 +1,17 @@
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\inpout32.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\inpoutx64.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe.config
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\EOGEVALab_v1.exe
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\EOGEVALab_v1.pdb
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\NationalInstruments.Common.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\NationalInstruments.DAQmx.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.csproj.ResolveComReference.cache
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.AboutBox.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Form1.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.FormGraph.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.Properties.Resources.resources
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.exe
+C:\Documents and Settings\Alex\Desktop\EOGEVALab_v1\EOGEVALab_v1\obj\Release\EOGEVALab_v1.pdb

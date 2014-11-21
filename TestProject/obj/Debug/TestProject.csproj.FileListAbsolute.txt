@@ -1,0 +1,9 @@
+D:\Project\EyeTracking\EvaLab\TestProject\bin\Debug\TestProject.dll
+D:\Project\EyeTracking\EvaLab\TestProject\bin\Debug\TestProject.pdb
+D:\Project\EyeTracking\EvaLab\TestProject\bin\Debug\EVALabLibrary.dll
+D:\Project\EyeTracking\EvaLab\TestProject\bin\Debug\ZedGraph.dll
+D:\Project\EyeTracking\EvaLab\TestProject\bin\Debug\MathNet.Neodym.dll
+D:\Project\EyeTracking\EvaLab\TestProject\bin\Debug\EVALabLibrary.pdb
+D:\Project\EyeTracking\EvaLab\TestProject\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\EyeTracking\EvaLab\TestProject\obj\Debug\TestProject.dll
+D:\Project\EyeTracking\EvaLab\TestProject\obj\Debug\TestProject.pdb

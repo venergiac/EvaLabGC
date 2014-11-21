@@ -1,0 +1,10 @@
+<task id="GC" version="1.0">
+	<name>GazeContingent TMT </name>
+	<description>GazeContingent TMT</description>
+	<settings>
+		<param name="background">tmt_blurred.bmp</param>
+		<param name="foreground">tmt.bmp</param>
+		<param name="n">8</param>
+		<param name="th">60</param>
+	</settings>
+</task>

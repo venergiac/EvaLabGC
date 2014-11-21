@@ -1,0 +1,98 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup/EVALabLibrary/Analysis
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+Trial.cs
+file
+
+
+
+add
+
+Fixation
+dir
+
+
+
+add
+
+Saccade
+dir
+
+
+
+add
+
+DataObject.cs
+file
+
+
+
+add
+
+Filter
+dir
+
+
+
+add
+
+WaveForm
+dir
+
+
+
+add
+
+Data
+dir
+
+
+
+add
+
+ROI
+dir
+
+
+
+add
+
+Indicator
+dir
+
+
+
+add
+
+Util
+dir
+
+
+
+add
+

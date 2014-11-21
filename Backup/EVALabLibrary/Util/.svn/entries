@@ -1,0 +1,112 @@
+10
+
+dir
+0
+svn://svn/EyeTracking/trunk/EvaLab/Backup/EVALabLibrary/Util
+svn://svn/EyeTracking
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eb4dc593-ed95-4349-b6c0-109706723572
+
+Input
+dir
+
+
+
+add
+
+Output
+dir
+
+
+
+add
+
+Timer
+dir
+
+
+
+add
+
+Graph
+dir
+
+
+
+add
+
+Performance
+dir
+
+
+
+add
+
+BigInteger.cs
+file
+
+
+
+add
+
+IniFile.cs
+file
+
+
+
+add
+
+Filter
+dir
+
+
+
+add
+
+Meta
+dir
+
+
+
+add
+
+IO
+dir
+
+
+
+add
+
+Box
+dir
+
+
+
+add
+
+Math.cs
+file
+
+
+
+add
+

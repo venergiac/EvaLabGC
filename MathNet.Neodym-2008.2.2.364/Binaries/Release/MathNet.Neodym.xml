@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MathNet.Neodym</name>
+    </assembly>
+    <members>
+        <member name="T:MathNet.SignalProcessing.DataSources.SignalGenerator">
+            <summary>
+            Generators for sinusidual and theoretical signal vectors. 
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.DataSources.SignalGenerator.Sine(System.Double,System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            Create a Sine Signal Sample Vector.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="frequency">Frequency in samples per unit.</param>
+            <param name="phase">Optional phase offset.</param>
+            <param name="amplitude">The maximal reached peak.</param>
+            <param name="length">The count of samples to generate.</param>
+        </member>
+        <member name="M:MathNet.SignalProcessing.DataSources.SignalGenerator.Step(System.Int32,System.Double,System.Int32)">
+            <summary>
+            Create a Heaviside Step Signal Sample Vector.
+            </summary>
+            <param name="offset">Offset to the time axis. Zero or positive.</param>
+            <param name="amplitude">The maximal reached peak.</param>
+            <param name="length">The count of samples to generate.</param>
+        </member>
+        <member name="M:MathNet.SignalProcessing.DataSources.SignalGenerator.Impulse(System.Int32,System.Int32,System.Double,System.Int32)">
+            <summary>
+            Create a Dirac Delta Impulse Signal Sample Vector.
+            </summary>
+            <param name="offset">Offset to the time axis. Zero or positive.</param>
+            <param name="frequency">impulse sequence frequency. -1 for single impulse only.</param>
+            <param name="amplitude">The maximal reached peak.</param>
+            <param name="length">The count of samples to generate.</param>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.FilterType">
+            <summary>
+            Frequency Filter Type
+            </summary>
+        </member>
+        <member name="F:MathNet.SignalProcessing.Filter.FilterType.LowPass">
+            <summary>LowPass, lets only low frequencies pass.</summary>
+        </member>
+        <member name="F:MathNet.SignalProcessing.Filter.FilterType.HighPass">
+            <summary>HighPass, lets only high frequencies pass.</summary>
+        </member>
+        <member name="F:MathNet.SignalProcessing.Filter.FilterType.BandPass">
+            <summary>BandPass, lets only frequencies pass that are inside of a band.</summary>
+        </member>
+        <member name="F:MathNet.SignalProcessing.Filter.FilterType.BandStop">
+            <summary>BandStop, lets only frequencies pass that are outside of a band.</summary>
+        </member>
+        <member name="F:MathNet.SignalProcessing.Filter.FilterType.Other">
+            <summary>Other behavior.</summary>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.FIR.FirCoefficients">
+            <summary>
+            FirCoefficients provides basic coefficient evaluation
+            algorithms for the four most important filter types for
+            Finite Impulse Response (FIR) Filters.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.FIR.FirCoefficients.LowPass(System.Double,System.Double,System.Int32)">
+            <summary>
+            Calculates FIR LowPass Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoff">Cutoff frequency in samples per unit.</param>
+            <param name="halforder">halforder Q, so that Order N = 2*Q+1. Usually between 20 and 150.</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.FIR.FirCoefficients.HighPass(System.Double,System.Double,System.Int32)">
+            <summary>
+            Calculates FIR HighPass Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoff">Cutoff frequency in samples per unit.</param>
+            <param name="halforder">halforder Q, so that Order N = 2*Q+1</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.FIR.FirCoefficients.BandPass(System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            Calculates FIR Bandpass Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoffLow">Low Cutoff frequency in samples per unit.</param>
+            <param name="cutoffHigh">High Cutoff frequency in samples per unit.</param>
+            <param name="halforder">halforder Q, so that Order N = 2*Q+1</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.FIR.FirCoefficients.BandStop(System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            Calculates FIR Bandstop Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoffLow">Low Cutoff frequency in samples per unit.</param>
+            <param name="cutoffHigh">High Cutoff frequency in samples per unit.</param>
+            <param name="halforder">halforder Q, so that Order N = 2*Q+1</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.FIR.OnlineFirFilter">
+            <summary>
+            Finite Impulse Response (FIR) Filters are based on
+            fourier series and implemented using a discrete
+            convolution equation. FIR Filters are always
+            online, stable and causal. 
+            </summary>
+            <remarks>
+            System Descripton: H(z) = a0 + a1*z^-1 + a2*z^-2 + ...
+            </remarks>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.OnlineFilter">
+            <summary>
+            Online filters allow processing incomming samples immediately and hence
+            provide a nearly-realtime response with a fixed delay.
+            </summary>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.IOnlineFilter">
+            <summary>
+            An online filter that allows processing samples just in time.
+            Online Filters are always causal.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IOnlineFilter.ProcessSample(System.Double)">
+            <summary>Process a single sample.</summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IOnlineFilter.ProcessSamples(System.Double[])">
+            <summary>Process a whole set of samples at once.</summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IOnlineFilter.Reset">
+            <summary>Reset internal state (not coefficients!).</summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateLowpass(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double,System.Int32)">
+            <summary>
+            Create a filter to remove high frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateLowpass(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double)">
+            <summary>
+            Create a filter to remove high frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateHighpass(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double,System.Int32)">
+            <summary>
+            Create a filter to remove low frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateHighpass(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double)">
+            <summary>
+            Create a filter to remove low frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateBandpass(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            Create a filter to remove low and high frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateBandpass(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double,System.Double)">
+            <summary>
+            Create a filter to remove low and high frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateBandstop(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            Create a filter to remove middle (all but low and high) frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateBandstop(MathNet.SignalProcessing.Filter.ImpulseResponse,System.Double,System.Double,System.Double)">
+            <summary>
+            Create a filter to remove middle (all but low and high) frequencies in online processing scenarios.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateDenoise(System.Int32)">
+            <summary>
+            Create a filter to remove noise in online processing scenarios.
+            </summary>
+            <param name="order">
+            Window Size, should be odd. A larger number results in a smoother
+            response but also in a longer delay.
+            </param>
+            <remarks>The denoise filter is implemented as an unweighted median filter.</remarks>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.CreateDenoise">
+            <summary>
+            Create a filter to remove noise in online processing scenarios.
+            </summary>
+            <remarks>The denoise filter is implemented as an unweighted median filter.</remarks>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.ProcessSample(System.Double)">
+            <summary>
+            Process a single sample.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.Reset">
+            <summary>
+            Reset internal state (not coefficients!).
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.OnlineFilter.ProcessSamples(System.Double[])">
+            <summary>
+            Process a sequence of sample.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.FIR.OnlineFirFilter.#ctor(System.Collections.Generic.IList{System.Double})">
+            <summary>
+            Finite Impulse Response (FIR) Filter.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.FIR.OnlineFirFilter.ProcessSample(System.Double)">
+            <summary>
+            Process a single sample.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.FIR.OnlineFirFilter.Reset">
+            <summary>
+            Reset internal state (not coefficients!).
+            </summary>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.IIR.IirCoefficients">
+            <summary>
+            IirCoefficients provides basic coefficient evaluation
+            algorithms for the four most important filter types for
+            Infinite Impulse Response (IIR) Filters.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IIR.IirCoefficients.LowPass(System.Double,System.Double,System.Double)">
+            <summary>
+            Calculates IIR LowPass Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoff">Cutoff frequency in samples per unit.</param>
+            <param name="width">bandwidth in samples per unit.</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IIR.IirCoefficients.HighPass(System.Double,System.Double,System.Double)">
+            <summary>
+            Calculates IIR HighPass Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoff">Cutoff frequency in samples per unit.</param>
+            <param name="width">bandwidth in samples per unit.</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IIR.IirCoefficients.BandPass(System.Double,System.Double,System.Double)">
+            <summary>
+            Calculates IIR Bandpass Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoffLow">Low Cutoff frequency in samples per unit.</param>
+            <param name="cutoffHigh">High Cutoff frequency in samples per unit.</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IIR.IirCoefficients.BandStop(System.Double,System.Double,System.Double)">
+            <summary>
+            Calculates IIR Bandstop Filter Coefficients.
+            </summary>
+            <param name="samplingRate">Samples per unit.</param>
+            <param name="cutoffLow">Low Cutoff frequency in samples per unit.</param>
+            <param name="cutoffHigh">High Cutoff frequency in samples per unit.</param>
+            <returns>The calculated filter coefficients.</returns>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.IIR.OnlineIirFilter">
+            <summary>
+            Infinite Impulse Response (FIR) Filters need much
+            less coefficients (and are thus much faster) than
+            comparable FIR Filters, but are potentially unstable.
+            IIR Filters are always online and causal. This IIR
+            Filter implements the canonic Direct Form II structure.
+            </summary>
+            <remarks>
+            System Descripton: H(z) = (a0 + a1*z^-1 + a2*z^-2) / (1 + b1*z^-1 + b2*z^-2)
+            </remarks>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IIR.OnlineIirFilter.#ctor(System.Double[])">
+            <summary>
+            Infinite Impulse Response (IIR) Filter.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IIR.OnlineIirFilter.ProcessSample(System.Double)">
+            <summary>
+            Process a single sample.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.IIR.OnlineIirFilter.Reset">
+            <summary>
+            Reset internal state (not coefficients!).
+            </summary>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.ImpulseResponse">
+            <summary>
+            Specifies how a filter will respond to an impulse input.
+            </summary>
+        </member>
+        <member name="F:MathNet.SignalProcessing.Filter.ImpulseResponse.Finite">
+            <summary>
+            Impulse response always has a finite length of time and are stable, but usually have a long delay.
+            </summary>
+        </member>
+        <member name="F:MathNet.SignalProcessing.Filter.ImpulseResponse.Infinite">
+            <summary>
+            Impulse response may have an infinite length of time and may be unstable, but usually have only a short delay.
+            </summary>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.Median.OnlineMedianFilter">
+            <summary>
+            Median-Filters are non-linear filters, returning
+            the median of a sample window as output. Median-Filters
+            perform well for denoise-applications where it's
+            important to not loose sharp steps/edges.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Median.OnlineMedianFilter.#ctor(System.Int32)">
+            <summary>
+            Create a Median Filter
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Median.OnlineMedianFilter.ProcessSample(System.Double)">
+            <summary>
+            Process a single sample.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Median.OnlineMedianFilter.Reset">
+            <summary>
+            Reset internal state.
+            </summary>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer">
+            <summary>
+            ShiftBuffer is a circular buffer behaving like a shift register (el. engineering)
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer.#ctor(System.Int32)">
+            <summary>
+            Shift Buffer for discrete convolutions.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer.#ctor(System.Double[])">
+            <summary>
+            Shift Buffer for discrete convolutions.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer.ShiftAddHead(System.Double)">
+            <summary>
+            Add a new sample on top of the buffer and discard the oldest entry (tail).
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer.MultiplyAccumulate(System.Double[])">
+            <summary>
+            Discrete Convolution. Evaluates the classic MAC operation to another buffer/vector (looped).
+            </summary>
+            <returns>The sum of the memberwiese sample products, sum(a[i]*b[i],i=0..size)</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer.MultiplyAccumulate(System.Double[],System.Int32,System.Int32)">
+            <summary>
+            Discrete Convolution. Evaluates the classic MAC operation to another buffer/vector (looped).
+            </summary>
+            <returns>The sum of the memberwiese sample products, sum(a[i]*b[i],i=0..size)</returns>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer.Reset">
+            <summary>
+            Sets all buffer items to zero.
+            </summary>
+        </member>
+        <member name="P:MathNet.SignalProcessing.Filter.Utils.ShiftBuffer.Item(System.Int32)">
+            <summary>
+            Buffer Indexer. The newest (top) item has index 0.
+            </summary>
+        </member>
+        <member name="T:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer">
+            <summary>
+            A fixed-sized sorted buffer that behaves like a shift register,
+            hence the item added first is also removed first.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.#ctor(System.Int32)">
+            <summary>
+            Create an ordered shift buffer.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.Append(System.Double)">
+            <summary>
+            Append a single sample to the buffer.
+            </summary>
+        </member>
+        <member name="M:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.Clear">
+            <summary>
+            Remove all samples from the buffer.
+            </summary>
+        </member>
+        <member name="P:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.ActualCount">
+            <summary>
+            The number of samples currently loaded in the buffer.
+            </summary>
+        </member>
+        <member name="P:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.IsInitialized">
+            <summary>
+            True if the buffer is filled completely and thus in normal operation.
+            </summary>
+        </member>
+        <member name="P:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.InitializedCount">
+            <summary>
+            The number of samples required for this buffer to operate normally.
+            </summary>
+        </member>
+        <member name="P:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.Median">
+            <summary>
+            The current median of all samples currently in the buffer.
+            </summary>
+        </member>
+        <member name="P:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.ByValueOrder">
+            <summary>
+            Iterate over all samples, ordered by value.
+            </summary>
+        </member>
+        <member name="P:MathNet.SignalProcessing.Filter.Utils.OrderedShiftBuffer.ByInsertOrder">
+            <summary>
+            Iterate over all samples, ordered by insertion order.
+            </summary>
+        </member>
+    </members>
+</doc>

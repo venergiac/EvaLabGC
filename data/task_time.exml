@@ -1,0 +1,124 @@
+<task id="ROI" version="1.0"><name>Task Time</name><description>Task Time at 1700</description><settings><param name="time">1700</param><param name="targetX">800</param><param name="targetY">600</param><param name="background">black</param><param name="commands"><![CDATA[ACTION PutInAt gray_dot.bmp 200 593 1 76000
+ACTION PutInAt line.bmp 800 600 19000 76000
+ACTION PutInAt red_dot.bmp 200 593 0 400
+ACTION PutInAt red_dot.bmp 800 600 1400 2000 800 600
+ACTION InterceptAt # 100 50 800 600 1400 2000 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 1900 2300
+ACTION PutInAt red_dot.bmp 800 600 3300 3900 800 600
+ACTION InterceptAt # 100 50 800 600 3300 3900 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 3800 4200
+ACTION PutInAt red_dot.bmp 800 600 5200 5800 800 600
+ACTION InterceptAt # 100 50 800 600 5200 5800 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 5700 6100
+ACTION PutInAt red_dot.bmp 800 600 7100 7700 800 600
+ACTION InterceptAt # 100 50 800 600 7100 7700 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 7600 8000
+ACTION PutInAt red_dot.bmp 800 600 9000 9600 800 600
+ACTION InterceptAt # 100 50 800 600 9000 9600 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 9500 9900
+ACTION PutInAt red_dot.bmp 800 600 10900 11500 800 600
+ACTION InterceptAt # 100 50 800 600 10900 11500 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 11400 11800
+ACTION PutInAt red_dot.bmp 800 600 12800 13400 800 600
+ACTION InterceptAt # 100 50 800 600 12800 13400 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 13300 13700
+ACTION PutInAt red_dot.bmp 800 600 14700 15300 800 600
+ACTION InterceptAt # 100 50 800 600 14700 15300 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 15200 15600
+ACTION PutInAt red_dot.bmp 800 600 16600 17200 800 600
+ACTION InterceptAt # 100 50 800 600 16600 17200 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 17100 17500
+ACTION PutInAt red_dot.bmp 800 600 18500 19100 800 600
+ACTION InterceptAt # 100 50 800 600 18500 19100 800 600 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 19000 19400
+ACTION PutInAt red_dot.bmp 800 0 19500 20900 800 700
+ACTION InterceptAt # 200 50 800 500 20500 20800 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 20900 21300
+ACTION PutInAt red_dot.bmp 800 0 21400 22800 800 700
+ACTION InterceptAt # 200 50 800 500 22400 22700 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 22800 23200
+ACTION PutInAt red_dot.bmp 800 0 23300 24700 800 700
+ACTION InterceptAt # 200 50 800 500 24300 24600 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 24700 25100
+ACTION PutInAt red_dot.bmp 800 0 25200 26600 800 700
+ACTION InterceptAt # 200 50 800 500 26200 26500 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 26600 27000
+ACTION PutInAt red_dot.bmp 800 0 27100 28500 800 700
+ACTION InterceptAt # 200 50 800 500 28100 28400 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 28500 28900
+ACTION PutInAt red_dot.bmp 800 0 29000 30400 800 700
+ACTION InterceptAt # 200 50 800 500 30000 30300 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 30400 30800
+ACTION PutInAt red_dot.bmp 800 0 30900 32300 800 700
+ACTION InterceptAt # 200 50 800 500 31900 32200 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 32300 32700
+ACTION PutInAt red_dot.bmp 800 0 32800 34200 800 700
+ACTION InterceptAt # 200 50 800 500 33800 34100 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 34200 34600
+ACTION PutInAt red_dot.bmp 800 0 34700 36100 800 700
+ACTION InterceptAt # 200 50 800 500 35700 36000 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 36100 36500
+ACTION PutInAt red_dot.bmp 800 0 36600 38000 800 700
+ACTION InterceptAt # 200 50 800 500 37600 37900 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 38000 38400
+ACTION PutInAt red_dot.bmp 800 0 38500 39900 800 700
+ACTION InterceptAt # 180 50 800 500 39500 39800 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 39900 40300
+ACTION PutInAt red_dot.bmp 800 0 40400 41800 800 700
+ACTION InterceptAt # 180 50 800 500 41400 41700 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 41800 42200
+ACTION PutInAt red_dot.bmp 800 0 42300 43700 800 700
+ACTION InterceptAt # 180 50 800 500 43300 43600 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 43700 44100
+ACTION PutInAt red_dot.bmp 800 0 44200 45600 800 700
+ACTION InterceptAt # 180 50 800 500 45200 45500 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 45600 46000
+ACTION PutInAt red_dot.bmp 800 0 46100 47500 800 700
+ACTION InterceptAt # 180 50 800 500 47100 47400 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 47500 47900
+ACTION PutInAt red_dot.bmp 800 0 48000 49400 800 700
+ACTION InterceptAt # 180 50 800 500 49000 49300 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 49400 49800
+ACTION PutInAt red_dot.bmp 800 0 49900 51300 800 700
+ACTION InterceptAt # 180 50 800 500 50900 51200 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 51300 51700
+ACTION PutInAt red_dot.bmp 800 0 51800 53200 800 700
+ACTION InterceptAt # 180 50 800 500 52800 53100 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 53200 53600
+ACTION PutInAt red_dot.bmp 800 0 53700 55100 800 700
+ACTION InterceptAt # 180 50 800 500 54700 55000 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 55100 55500
+ACTION PutInAt red_dot.bmp 800 0 55600 57000 800 700
+ACTION InterceptAt # 180 50 800 500 56600 56900 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 57000 57400
+ACTION PutInAt red_dot.bmp 800 0 57500 58900 800 700
+ACTION InterceptAt # 150 50 800 500 58500 58800 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 58900 59300
+ACTION PutInAt red_dot.bmp 800 0 59400 60800 800 700
+ACTION InterceptAt # 150 50 800 500 60400 60700 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 60800 61200
+ACTION PutInAt red_dot.bmp 800 0 61300 62700 800 700
+ACTION InterceptAt # 150 50 800 500 62300 62600 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 62700 63100
+ACTION PutInAt red_dot.bmp 800 0 63200 64600 800 700
+ACTION InterceptAt # 150 50 800 500 64200 64500 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 64600 65000
+ACTION PutInAt red_dot.bmp 800 0 65100 66500 800 700
+ACTION InterceptAt # 150 50 800 500 66100 66400 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 66500 66900
+ACTION PutInAt red_dot.bmp 800 0 67000 68400 800 700
+ACTION InterceptAt # 150 50 800 500 68000 68300 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 68400 68800
+ACTION PutInAt red_dot.bmp 800 0 68900 70300 800 700
+ACTION InterceptAt # 150 50 800 500 69900 70200 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 70300 70700
+ACTION PutInAt red_dot.bmp 800 0 70800 72200 800 700
+ACTION InterceptAt # 150 50 800 500 71800 72100 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 72200 72600
+ACTION PutInAt red_dot.bmp 800 0 72700 74100 800 700
+ACTION InterceptAt # 150 50 800 500 73700 74000 800 650 PlaySound ok.wav PlaySound ko.wav
+ACTION PutInAt red_dot.bmp 200 593 74100 74500
+ACTION PutInAt red_dot.bmp 800 0 74600 76000 800 700
+ACTION InterceptAt # 150 50 800 500 75600 75900 800 650 PlaySound ok.wav PlaySound ko.wav
+STOP 76000
+]]></param></settings></task>

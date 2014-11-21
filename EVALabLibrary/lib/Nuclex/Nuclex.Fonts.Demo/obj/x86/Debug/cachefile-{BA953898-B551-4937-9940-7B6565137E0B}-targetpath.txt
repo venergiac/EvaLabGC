@@ -1,0 +1,2 @@
+Content\Arial-24-Sprite.xnb
+Content\Arial-24-Vector.xnb

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Graphics.Demo (xna-4.0-xbox360)", "Nuclex.Graphics.Demo\Nuclex.Graphics.Demo (xna-4.0-xbox360).csproj", "{8A61C143-B581-4791-9AF2-E0E93D8C8C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.UserInterface.Demo (xna-4.0-xbox360)", "Nuclex.UserInterface.Demo\Nuclex.UserInterface.Demo (xna-4.0-xbox360).csproj", "{3FF94A2D-2F83-44EE-8041-B0361C79E6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Graphics.Demo.Content", "Nuclex.Graphics.Demo\Content\Nuclex.Graphics.Demo.Content.contentproj", "{1D290B4A-A7FF-46A3-B166-17758B95EA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Input.Demo (xna-4.0-xbox360)", "Nuclex.Input.Demo\Nuclex.Input.Demo (xna-4.0-xbox360).csproj", "{F75F40AC-D63C-4AFD-952C-29C3D9075FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Input.Demo.Content", "Nuclex.Input.Demo\Content\Nuclex.Input.Demo.Content.contentproj", "{9F37B100-7009-4E3E-B45D-EB015510F7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Fonts.Demo (xna-4.0-xbox360)", "Nuclex.Fonts.Demo\Nuclex.Fonts.Demo (xna-4.0-xbox360).csproj", "{52C83AE2-4574-4567-9AC4-B854C648C2C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuclex.Fonts.Demo.Content", "Nuclex.Fonts.Demo\Content\Nuclex.Fonts.Demo.Content.contentproj", "{BA953898-B551-4937-9940-7B6565137E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|xna-4.0-xbox360 = Debug|xna-4.0-xbox360
+		Release|xna-4.0-xbox360 = Release|xna-4.0-xbox360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A61C143-B581-4791-9AF2-E0E93D8C8C73}.Debug|xna-4.0-xbox360.ActiveCfg = Debug|Xbox 360
+		{8A61C143-B581-4791-9AF2-E0E93D8C8C73}.Debug|xna-4.0-xbox360.Build.0 = Debug|Xbox 360
+		{8A61C143-B581-4791-9AF2-E0E93D8C8C73}.Debug|xna-4.0-xbox360.Deploy.0 = Debug|Xbox 360
+		{8A61C143-B581-4791-9AF2-E0E93D8C8C73}.Release|xna-4.0-xbox360.ActiveCfg = Release|Xbox 360
+		{8A61C143-B581-4791-9AF2-E0E93D8C8C73}.Release|xna-4.0-xbox360.Build.0 = Release|Xbox 360
+		{8A61C143-B581-4791-9AF2-E0E93D8C8C73}.Release|xna-4.0-xbox360.Deploy.0 = Release|Xbox 360
+		{3FF94A2D-2F83-44EE-8041-B0361C79E6BD}.Debug|xna-4.0-xbox360.ActiveCfg = Debug|Xbox 360
+		{3FF94A2D-2F83-44EE-8041-B0361C79E6BD}.Debug|xna-4.0-xbox360.Build.0 = Debug|Xbox 360
+		{3FF94A2D-2F83-44EE-8041-B0361C79E6BD}.Debug|xna-4.0-xbox360.Deploy.0 = Debug|Xbox 360
+		{3FF94A2D-2F83-44EE-8041-B0361C79E6BD}.Release|xna-4.0-xbox360.ActiveCfg = Release|Xbox 360
+		{3FF94A2D-2F83-44EE-8041-B0361C79E6BD}.Release|xna-4.0-xbox360.Build.0 = Release|Xbox 360
+		{3FF94A2D-2F83-44EE-8041-B0361C79E6BD}.Release|xna-4.0-xbox360.Deploy.0 = Release|Xbox 360
+		{1D290B4A-A7FF-46A3-B166-17758B95EA90}.Debug|xna-4.0-xbox360.ActiveCfg = Debug|Any CPU
+		{1D290B4A-A7FF-46A3-B166-17758B95EA90}.Release|xna-4.0-xbox360.ActiveCfg = Debug|Any CPU
+		{F75F40AC-D63C-4AFD-952C-29C3D9075FE2}.Debug|xna-4.0-xbox360.ActiveCfg = Debug|Xbox 360
+		{F75F40AC-D63C-4AFD-952C-29C3D9075FE2}.Debug|xna-4.0-xbox360.Build.0 = Debug|Xbox 360
+		{F75F40AC-D63C-4AFD-952C-29C3D9075FE2}.Debug|xna-4.0-xbox360.Deploy.0 = Debug|Xbox 360
+		{F75F40AC-D63C-4AFD-952C-29C3D9075FE2}.Release|xna-4.0-xbox360.ActiveCfg = Release|Xbox 360
+		{F75F40AC-D63C-4AFD-952C-29C3D9075FE2}.Release|xna-4.0-xbox360.Build.0 = Release|Xbox 360
+		{F75F40AC-D63C-4AFD-952C-29C3D9075FE2}.Release|xna-4.0-xbox360.Deploy.0 = Release|Xbox 360
+		{9F37B100-7009-4E3E-B45D-EB015510F7A8}.Debug|xna-4.0-xbox360.ActiveCfg = Debug|x86
+		{9F37B100-7009-4E3E-B45D-EB015510F7A8}.Release|xna-4.0-xbox360.ActiveCfg = Release|x86
+		{52C83AE2-4574-4567-9AC4-B854C648C2C2}.Debug|xna-4.0-xbox360.ActiveCfg = Debug|Xbox 360
+		{52C83AE2-4574-4567-9AC4-B854C648C2C2}.Debug|xna-4.0-xbox360.Build.0 = Debug|Xbox 360
+		{52C83AE2-4574-4567-9AC4-B854C648C2C2}.Debug|xna-4.0-xbox360.Deploy.0 = Debug|Xbox 360
+		{52C83AE2-4574-4567-9AC4-B854C648C2C2}.Release|xna-4.0-xbox360.ActiveCfg = Release|Xbox 360
+		{52C83AE2-4574-4567-9AC4-B854C648C2C2}.Release|xna-4.0-xbox360.Build.0 = Release|Xbox 360
+		{52C83AE2-4574-4567-9AC4-B854C648C2C2}.Release|xna-4.0-xbox360.Deploy.0 = Release|Xbox 360
+		{BA953898-B551-4937-9940-7B6565137E0B}.Debug|xna-4.0-xbox360.ActiveCfg = Debug|x86
+		{BA953898-B551-4937-9940-7B6565137E0B}.Release|xna-4.0-xbox360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
