@@ -22,7 +22,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tobii Sample", "Tobii Sample\Tobii Sample.csproj", "{09EA5D83-F650-4D5F-9FE0-46D92B444E56}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupEvaLabAnalysis", "SetupEvaLabAnalysis\SetupEvaLabAnalysis.vdproj", "{FB72EC1A-87F8-45CC-A673-796FD08886DA}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupEvaLabMinimal", "SetupEvaLabAnalysis\SetupEvaLabAnalysis.vdproj", "{FB72EC1A-87F8-45CC-A673-796FD08886DA}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution

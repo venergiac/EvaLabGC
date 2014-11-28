@@ -391,7 +391,7 @@ namespace EVALabGC.ROI
                     return;
                 }
 
-
+                
                 if (((evaluatedError > errorMargin) && (evaluate == 2)) || ((currentError <= errorMargin) && (evaluate == 0)))
                 {
                     evaluated = true;
